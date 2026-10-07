@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "notice": "Discovery signals only. Google searches do not prove a social-platform trend. Verify each TikTok, X, and Instagram topic on that platform before editing feed.json. YouTube chart videos are candidates, not complete four-post Gist topics.",
+  "sources": [
+    {
+      "name": "Google Trends Ghana",
+      "kind": "search_candidates",
+      "url": "https://trends.google.com/trending/rss?geo=GH",
+      "items": [
+        {
+          "title": "jj gabriel",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-07T12:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "forex factory",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-07T12:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "riccardo calafiori",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-07T10:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "la pleasure beach",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-07T10:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "moisés caicedo",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-07T10:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "ghanaian cedi",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-07T09:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "francis halzen",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-07T07:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "mexico vs chile",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-07T06:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "roméo lavia",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-07T03:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "usa vs canada",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-07T02:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        }
+      ]
+    },
+    {
+      "name": "YouTube Ghana chart",
+      "kind": "platform_candidates",
+      "url": "https://www.youtube.com/feed/trending?gl=GH",
+      "status": "needs_free_api_key",
+      "items": []
+    }
+  ],
+  "generatedAt": "2026-10-07T14:06:32Z"
+}
