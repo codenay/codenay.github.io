@@ -8,9 +8,45 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "jj gabriel",
+          "title": "inflation",
           "searchVolume": "100+",
-          "startedAt": "2026-10-07T12:50:00Z",
+          "startedAt": "2026-10-07T18:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "mikel arteta",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-07T16:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "marc pubill",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-07T16:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "momo",
+          "searchVolume": "1000+",
+          "startedAt": "2026-10-07T15:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "industrial action",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-07T14:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "samsung galaxy",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-07T14:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "jj gabriel man utd",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-07T13:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
@@ -27,44 +63,8 @@
         },
         {
           "title": "la pleasure beach",
-          "searchVolume": "200+",
+          "searchVolume": "1000+",
           "startedAt": "2026-10-07T10:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "moisés caicedo",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-07T10:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "ghanaian cedi",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-07T09:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "francis halzen",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-07T07:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "mexico vs chile",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-07T06:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "roméo lavia",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-07T03:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "usa vs canada",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-07T02:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-07T14:06:32Z"
+  "generatedAt": "2026-10-07T19:58:34Z"
 }
