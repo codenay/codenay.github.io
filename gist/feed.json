@@ -687,39 +687,39 @@
       ]
     },
     {
-      "topicID": "bendova-video",
+      "topicID": "team-eternity-promise",
       "platform": "youtube",
-      "headline": "Wendy Shay and Lasmid’s Bendova",
-      "context": "The video, lyric uploads, and an interview.",
-      "sourceURL": "https://www.youtube.com/watch?v=F5xgw4j_Cbg",
-      "imageURL": "https://i.ytimg.com/vi/F5xgw4j_Cbg/hqdefault.jpg",
+      "headline": "Team Eternity Ghana’s The Promise",
+      "context": "A new live performance leads the Ghana group’s recent album posts.",
+      "sourceURL": "https://www.youtube.com/watch?v=zfM88fNCxqM",
+      "imageURL": "https://i.ytimg.com/vi/zfM88fNCxqM/hqdefault.jpg",
       "previews": [
         {
-          "creator": "Wendy Shay & Lasmid",
-          "caption": "Bendova music video.",
-          "postURL": "https://www.youtube.com/watch?v=F5xgw4j_Cbg",
-          "imageURL": "https://i.ytimg.com/vi/F5xgw4j_Cbg/hqdefault.jpg",
+          "creator": "Team Eternity Ghana",
+          "caption": "The Promise performed with Grace Charles.",
+          "postURL": "https://www.youtube.com/watch?v=zfM88fNCxqM",
+          "imageURL": "https://i.ytimg.com/vi/zfM88fNCxqM/hqdefault.jpg",
           "isVideo": true
         },
         {
-          "creator": "VANZ Lyrics",
-          "caption": "Bendova lyric video.",
-          "postURL": "https://www.youtube.com/watch?v=Bcfwy19QInA",
-          "imageURL": "https://i.ytimg.com/vi/Bcfwy19QInA/hqdefault.jpg",
+          "creator": "Team Eternity Ghana",
+          "caption": "Esther Smith Tribute I from The Promise album.",
+          "postURL": "https://www.youtube.com/watch?v=7aBy1lSr4EY",
+          "imageURL": "https://i.ytimg.com/vi/7aBy1lSr4EY/hqdefault.jpg",
           "isVideo": true
         },
         {
-          "creator": "Street is Watching",
-          "caption": "Wendy Shay discusses Lasmid.",
-          "postURL": "https://www.youtube.com/watch?v=Lvj1k9RG93c",
-          "imageURL": "https://i.ytimg.com/vi/Lvj1k9RG93c/hqdefault.jpg",
+          "creator": "Team Eternity Ghana",
+          "caption": "The Promise official audio.",
+          "postURL": "https://www.youtube.com/watch?v=CZcKmdDsSs4",
+          "imageURL": "https://i.ytimg.com/vi/CZcKmdDsSs4/hqdefault.jpg",
           "isVideo": true
         },
         {
-          "creator": "Code Micky TV",
-          "caption": "A decoding of Bendova.",
-          "postURL": "https://www.youtube.com/watch?v=cqESbCkP0Jg",
-          "imageURL": "https://i.ytimg.com/vi/cqESbCkP0Jg/hqdefault.jpg",
+          "creator": "Team Eternity Ghana",
+          "caption": "Attributes, another track from The Promise.",
+          "postURL": "https://www.youtube.com/watch?v=YeigxHVQfjA",
+          "imageURL": "https://i.ytimg.com/vi/YeigxHVQfjA/hqdefault.jpg",
           "isVideo": true
         }
       ]
