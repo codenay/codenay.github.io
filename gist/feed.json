@@ -1,0 +1,766 @@
+{
+  "schemaVersion": 4,
+  "briefingAt": "2026-10-07T08:40:00Z",
+  "trends": [
+    {
+      "topicID": "afrostar-dance",
+      "platform": "tiktok",
+      "headline": "Afronita and Afrostar Kids keep Ghana dancing",
+      "context": "Recent dance videos with the young performers.",
+      "sourceURL": "https://www.tiktok.com/@afronitaaa/video/7693546573279661333",
+      "imageURL": null,
+      "previews": [
+        {
+          "creator": "Afronita",
+          "caption": "A Davido dance with Afrostar Kids.",
+          "postURL": "https://www.tiktok.com/@afronitaaa/video/7693546573279661333",
+          "imageURL": null,
+          "isVideo": true
+        },
+        {
+          "creator": "Afronita",
+          "caption": "A nostalgic dance to Sarkodie.",
+          "postURL": "https://www.tiktok.com/@afronitaaa/video/7693214143062543637",
+          "imageURL": null,
+          "isVideo": true
+        },
+        {
+          "creator": "Afronita",
+          "caption": "Afronita dances with Yehowada and Catherine.",
+          "postURL": "https://www.tiktok.com/@afronitaaa/video/7692822542611909908",
+          "imageURL": null,
+          "isVideo": true
+        },
+        {
+          "creator": "Afronita",
+          "caption": "Another Davido routine from the academy.",
+          "postURL": "https://www.tiktok.com/@afronitaaa/video/7692518989066521877",
+          "imageURL": null,
+          "isVideo": true
+        }
+      ]
+    },
+    {
+      "topicID": "omalicha-dance",
+      "platform": "tiktok",
+      "headline": "Endurance Grand’s Omalicha dance challenge",
+      "context": "New takes on the Omalicha dance routine.",
+      "sourceURL": "https://www.tiktok.com/@endurancegrand/video/7693654749949840658",
+      "imageURL": null,
+      "previews": [
+        {
+          "creator": "Endurance Grand",
+          "caption": "Another Omalicha routine.",
+          "postURL": "https://www.tiktok.com/@endurancegrand/video/7693654749949840658",
+          "imageURL": null,
+          "isVideo": true
+        },
+        {
+          "creator": "Endurance Grand",
+          "caption": "Omalicha dance with Melissa Nortey and Trickmang.",
+          "postURL": "https://www.tiktok.com/@endurancegrand/video/7692906138672598292",
+          "imageURL": null,
+          "isVideo": true
+        },
+        {
+          "creator": "Endurance Grand",
+          "caption": "An Omalicha dance with a December twist.",
+          "postURL": "https://www.tiktok.com/@endurancegrand/video/7692195691954752820",
+          "imageURL": null,
+          "isVideo": true
+        },
+        {
+          "creator": "Endurance Grand",
+          "caption": "The original new-dance alert.",
+          "postURL": "https://www.tiktok.com/@endurancegrand/video/7688085683315035399",
+          "imageURL": null,
+          "isVideo": true
+        }
+      ]
+    },
+    {
+      "topicID": "chef-abby-feast",
+      "platform": "tiktok",
+      "headline": "Chef Abby counts down to the Big Street Feast",
+      "context": "Food videos and feast updates from Chef Abby.",
+      "sourceURL": "https://www.tiktok.com/@chefabbys/video/7693684834853522696",
+      "imageURL": null,
+      "previews": [
+        {
+          "creator": "Chef Abby",
+          "caption": "Late-night ETEW with fish stew.",
+          "postURL": "https://www.tiktok.com/@chefabbys/video/7693684834853522696",
+          "imageURL": null,
+          "isVideo": true
+        },
+        {
+          "creator": "Chef Abby",
+          "caption": "The feast announces an energy drink partner.",
+          "postURL": "https://www.tiktok.com/@chefabbys/video/7692494793980628231",
+          "imageURL": null,
+          "isVideo": true
+        },
+        {
+          "creator": "Chef Abby",
+          "caption": "A call for dancers to create a jingle routine.",
+          "postURL": "https://www.tiktok.com/@chefabbys/video/7692209908124634386",
+          "imageURL": null,
+          "isVideo": true
+        },
+        {
+          "creator": "Chef Abby",
+          "caption": "A low-budget meal during the countdown.",
+          "postURL": "https://www.tiktok.com/@chefabbys/video/7690647095660891400",
+          "imageURL": null,
+          "isVideo": true
+        }
+      ]
+    },
+    {
+      "topicID": "shatta-men-dey",
+      "platform": "tiktok",
+      "headline": "Shatta Wale shares MEN DEY",
+      "context": "Recent short-form music clips from Shatta Wale.",
+      "sourceURL": "https://www.tiktok.com/@shattawaleking/video/7693724429653658900",
+      "imageURL": null,
+      "previews": [
+        {
+          "creator": "Shatta Wale",
+          "caption": "MEN DEY is out now.",
+          "postURL": "https://www.tiktok.com/@shattawaleking/video/7693724429653658900",
+          "imageURL": null,
+          "isVideo": true
+        },
+        {
+          "creator": "Shatta Wale",
+          "caption": "A Jet Life clip.",
+          "postURL": "https://www.tiktok.com/@shattawaleking/video/7690706422056652053",
+          "imageURL": null,
+          "isVideo": true
+        },
+        {
+          "creator": "Shatta Wale",
+          "caption": "A recent music clip.",
+          "postURL": "https://www.tiktok.com/@shattawaleking/video/7689678837583580468",
+          "imageURL": null,
+          "isVideo": true
+        },
+        {
+          "creator": "Shatta Wale",
+          "caption": "A Body Pain clip.",
+          "postURL": "https://www.tiktok.com/@shattawaleking/video/7689496019830230292",
+          "imageURL": null,
+          "isVideo": true
+        }
+      ]
+    },
+    {
+      "topicID": "erkuah-comedy",
+      "platform": "tiktok",
+      "headline": "Erkuah’s Ghana comedy clips",
+      "context": "Recent light-hearted videos from Erkuah Official.",
+      "sourceURL": "https://www.tiktok.com/@erkuahofficial/video/7691661130825059602",
+      "imageURL": null,
+      "previews": [
+        {
+          "creator": "Erkuah Official",
+          "caption": "A new comedy clip.",
+          "postURL": "https://www.tiktok.com/@erkuahofficial/video/7691661130825059602",
+          "imageURL": null,
+          "isVideo": true
+        },
+        {
+          "creator": "Erkuah Official",
+          "caption": "A music-led comedy moment.",
+          "postURL": "https://www.tiktok.com/@erkuahofficial/video/7690898514833984786",
+          "imageURL": null,
+          "isVideo": true
+        },
+        {
+          "creator": "Erkuah Official",
+          "caption": "A hot-Sunday video.",
+          "postURL": "https://www.tiktok.com/@erkuahofficial/video/7687569996226055431",
+          "imageURL": null,
+          "isVideo": true
+        },
+        {
+          "creator": "Erkuah Official",
+          "caption": "A playful clip captioned This feeling.",
+          "postURL": "https://www.tiktok.com/@erkuahofficial/video/7687237827557330194",
+          "imageURL": null,
+          "isVideo": true
+        }
+      ]
+    },
+    {
+      "topicID": "ghana-morning-news",
+      "platform": "x",
+      "headline": "Ghana’s morning headlines",
+      "context": "Ghana News Agency’s October 7 bulletin and developing stories.",
+      "sourceURL": "https://x.com/GHANANEWSAGENCY/status/2107752975988875555",
+      "imageURL": null,
+      "previews": [
+        {
+          "creator": "Ghana News Agency",
+          "caption": "SOME MAJOR HEADLINES _(Wednesday, Oct. 07, 2026)_ Ghana News Agency (GNA) 1. Ghana to apply for BRICS membership – Ablakwa Read more: https://t.co/2vXUoEpBnQ #GNA #GhanaNewsAgency 2. President Mahama holds discussions with India’s…",
+          "postURL": "https://x.com/GHANANEWSAGENCY/status/2107752975988875555",
+          "imageURL": null,
+          "isVideo": false
+        },
+        {
+          "creator": "Ghana News Agency",
+          "caption": "Ghana In Sixty Seconds | Morning | October 07, 2026 #GNA #GhanaNewsAgency #GhanaNews",
+          "postURL": "https://x.com/GHANANEWSAGENCY/status/2107752220364079541",
+          "imageURL": null,
+          "isVideo": false
+        },
+        {
+          "creator": "Ghana News Agency",
+          "caption": "Farmers protest destruction of their farm produce #GNA #GhanaNewsAgency #GhanaNews https://t.co/bCDyWlGjdH",
+          "postURL": "https://x.com/GHANANEWSAGENCY/status/2107739976133730621",
+          "imageURL": null,
+          "isVideo": false
+        },
+        {
+          "creator": "Ghana News Agency",
+          "caption": "ECOWAS swears in five new judges for Community Court of Justice #GNA #GhanaNewsAgency #GhanaNews https://t.co/COFrnI75Ju",
+          "postURL": "https://x.com/GHANANEWSAGENCY/status/2107734634561761464",
+          "imageURL": null,
+          "isVideo": false
+        }
+      ]
+    },
+    {
+      "topicID": "ncsam-2026",
+      "platform": "x",
+      "headline": "Ghana’s cybersecurity month opens",
+      "context": "The Cyber Security Authority shares launch updates.",
+      "sourceURL": "https://x.com/CSAGhana/status/2107489668011036910",
+      "imageURL": null,
+      "previews": [
+        {
+          "creator": "Cyber Security Authority",
+          "caption": "“Cybersecurity cannot be a competition among defenders”. Highlights of Dr. Divine Selease Agbeti, Director-General of the Cyber Security Authority, speech at the NCSAM 2026 opening. #NCSAM2026 #BuildingDigitalTrust #OctoberIsNCSAM",
+          "postURL": "https://x.com/CSAGhana/status/2107489668011036910",
+          "imageURL": null,
+          "isVideo": false
+        },
+        {
+          "creator": "Cyber Security Authority",
+          "caption": "The Director-General of the Cyber Security Authority, Dr. Divine Selase Agbeti, has hosted a delegation from the U.S Department of Justice, Federal Bureau of Investigation (FBI), led by the Deputy Assistant Director, Criminal Division,…",
+          "postURL": "https://x.com/CSAGhana/status/2107479743696437276",
+          "imageURL": null,
+          "isVideo": false
+        },
+        {
+          "creator": "Cyber Security Authority",
+          "caption": "Mr. John Awuah, CEO of GAB, shares practical measures to ensure that security is not compromised as we ensure convenience in digital finance. He was speaking on a panel discussion at the NCSAM 2026 official launch #NCSAM2026…",
+          "postURL": "https://x.com/CSAGhana/status/2107123294688154088",
+          "imageURL": null,
+          "isVideo": false
+        },
+        {
+          "creator": "Cyber Security Authority",
+          "caption": "Securing Ghana’s digital economy will take more than technology. It will take collaboration, accountability and a shared commitment to trust. At the official launch of NCSAM 2026 on October 1, the message from government and key…",
+          "postURL": "https://x.com/CSAGhana/status/2106298317634523295",
+          "imageURL": null,
+          "isVideo": false
+        }
+      ]
+    },
+    {
+      "topicID": "black-stars",
+      "platform": "x",
+      "headline": "Black Stars coaching and match updates",
+      "context": "The official team account covers its Morocco friendly and coaching change.",
+      "sourceURL": "https://x.com/GhanaBlackstars/status/2105640364442890385",
+      "imageURL": null,
+      "previews": [
+        {
+          "creator": "Black Stars",
+          "caption": "The international friendly between the #BlackStars and Morocco has been called off following consultations between both Federations. https://t.co/CQj2VkO9SI",
+          "postURL": "https://x.com/GhanaBlackstars/status/2105640364442890385",
+          "imageURL": null,
+          "isVideo": false
+        },
+        {
+          "creator": "Black Stars",
+          "caption": "Carlos Queiroz and GFA mutually agree to terminate contract https://t.co/WIPQGd3ILW",
+          "postURL": "https://x.com/GhanaBlackstars/status/2105594180982710515",
+          "imageURL": null,
+          "isVideo": false
+        },
+        {
+          "creator": "Black Stars",
+          "caption": "☑️ Full-time in Accra📍 🇬🇭 Ghana 2️⃣-4️⃣ Gambia 🇬🇲 #BlackStars | #AFCON2027Q",
+          "postURL": "https://x.com/GhanaBlackstars/status/2104994785711055015",
+          "imageURL": null,
+          "isVideo": false
+        },
+        {
+          "creator": "Black Stars",
+          "caption": "⏱️ 90+1’ Goal for Gambia. 🇬🇭 Ghana 2️⃣-4️⃣ Gambia 🇬🇲 #BlackStars | #AFCON2027Q",
+          "postURL": "https://x.com/GhanaBlackstars/status/2104993448625402265",
+          "imageURL": null,
+          "isVideo": false
+        }
+      ]
+    },
+    {
+      "topicID": "shatta-music",
+      "platform": "x",
+      "headline": "Shatta Wale and Ghana music talk",
+      "context": "MEN DEY arrives amid new festival and artist posts.",
+      "sourceURL": "https://x.com/3musicnetworks/status/2107746659706749068",
+      "imageURL": null,
+      "previews": [
+        {
+          "creator": "3Music TV",
+          "caption": "🚨🚀: @shattawalegh’s MEN DEY official music video is OUT NOW! 🔥 Starring Maali & Shugah. 🎬 Watch it on YouTube and stream it hard! ❤️🔥",
+          "postURL": "https://x.com/3musicnetworks/status/2107746659706749068",
+          "imageURL": null,
+          "isVideo": false
+        },
+        {
+          "creator": "Shatta Wale",
+          "caption": "Big up my future star 🥂💚🙏",
+          "postURL": "https://x.com/shattawalegh/status/2107482213407478107",
+          "imageURL": null,
+          "isVideo": false
+        },
+        {
+          "creator": "Chief One",
+          "caption": "ShattaFest/Momofest|| I Came. I Conquered. I Left a mark. God bless my fans! I love y’all. 🇬🇭🐅🖤 whatisthat 📸: @kaydee_blaq",
+          "postURL": "https://x.com/chief__one/status/2107381838172110970",
+          "imageURL": null,
+          "isVideo": false
+        },
+        {
+          "creator": "Shatta Wale",
+          "caption": "Ibe calling 🤣✊🙏🤍",
+          "postURL": "https://x.com/shattawalegh/status/2107481933697433717",
+          "imageURL": null,
+          "isVideo": false
+        }
+      ]
+    },
+    {
+      "topicID": "accra-radio",
+      "platform": "x",
+      "headline": "Accra radio’s music conversations",
+      "context": "YFM Accra shares live shows and guests.",
+      "sourceURL": "https://x.com/Y1079FM/status/2107722446833078758",
+      "imageURL": null,
+      "previews": [
+        {
+          "creator": "YFM Accra",
+          "caption": "RyseNShyne with Brown Berry & Selector Danny https://t.co/uHju5dCQi8",
+          "postURL": "https://x.com/Y1079FM/status/2107722446833078758",
+          "imageURL": null,
+          "isVideo": false
+        },
+        {
+          "creator": "YFM Accra",
+          "caption": "We got @Ena_darkskin coming on in a bit on #RyseNShyne with @iambrownberry x #selectordanny ! Stay Tuned #yfmghana #enabillie #behere",
+          "postURL": "https://x.com/Y1079FM/status/2107745891863888286",
+          "imageURL": null,
+          "isVideo": false
+        },
+        {
+          "creator": "YFM Accra",
+          "caption": "We’re gonna have @_Lyricaljoe on #MMRS with @RevErskineGH x @DJGANJ today. Don’t miss it! It’ll be an interesting convo!! #yfmghana #lyricaljoe #warriorsound #khaligraph_jones",
+          "postURL": "https://x.com/Y1079FM/status/2107744993695711258",
+          "imageURL": null,
+          "isVideo": false
+        },
+        {
+          "creator": "YFM Accra",
+          "caption": "#RyseNShyne with @iambrownberry & #selectordanny https://t.co/ge6CmczcC4",
+          "postURL": "https://x.com/Y1079FM/status/2107722538243485967",
+          "imageURL": null,
+          "isVideo": false
+        }
+      ]
+    },
+    {
+      "topicID": "afrostar-reels",
+      "platform": "instagram",
+      "headline": "Afronita’s dance reels",
+      "context": "Recent Instagram routines from the Ghanaian dancer.",
+      "sourceURL": "https://www.instagram.com/afronitaaa/reel/DeJ59_7OTsA",
+      "imageURL": null,
+      "previews": [
+        {
+          "creator": "Afronita",
+          "caption": "A dance reel posted October 6.",
+          "postURL": "https://www.instagram.com/afronitaaa/reel/DeJ59_7OTsA",
+          "imageURL": null,
+          "isVideo": true
+        },
+        {
+          "creator": "Afronita",
+          "caption": "A group dance reel posted October 5.",
+          "postURL": "https://www.instagram.com/afronitaaa/reel/DeHlfwBO4NI",
+          "imageURL": null,
+          "isVideo": true
+        },
+        {
+          "creator": "Afronita",
+          "caption": "Another dance reel posted October 4.",
+          "postURL": "https://www.instagram.com/afronitaaa/reel/DeE1S7otNCw",
+          "imageURL": null,
+          "isVideo": true
+        },
+        {
+          "creator": "Afronita",
+          "caption": "A dance reel posted October 3.",
+          "postURL": "https://www.instagram.com/afronitaaa/reel/DeCwwKGOPDn",
+          "imageURL": null,
+          "isVideo": true
+        }
+      ]
+    },
+    {
+      "topicID": "chef-abby-food",
+      "platform": "instagram",
+      "headline": "Chef Abby’s food and feast posts",
+      "context": "Food and event posts from the Ghanaian creator.",
+      "sourceURL": "https://www.instagram.com/chefabbys/reel/DeK2TbSNfUp/",
+      "imageURL": null,
+      "previews": [
+        {
+          "creator": "Chef Abby",
+          "caption": "Stew and plantains, posted October 6.",
+          "postURL": "https://www.instagram.com/chefabbys/reel/DeK2TbSNfUp/",
+          "imageURL": null,
+          "isVideo": true
+        },
+        {
+          "creator": "Chef Abby",
+          "caption": "A photo post from October 6.",
+          "postURL": "https://www.instagram.com/chefabbys/p/DeJdXksDRnK/",
+          "imageURL": null,
+          "isVideo": false
+        },
+        {
+          "creator": "Chef Abby",
+          "caption": "An October 5 photo post.",
+          "postURL": "https://www.instagram.com/chefabbys/p/DeINf3jDbCZ/",
+          "imageURL": null,
+          "isVideo": false
+        },
+        {
+          "creator": "Chef Abby",
+          "caption": "A reel posted October 4.",
+          "postURL": "https://www.instagram.com/chefabbys/reel/DeE-BDZN25k/",
+          "imageURL": null,
+          "isVideo": true
+        }
+      ]
+    },
+    {
+      "topicID": "endurance-reels",
+      "platform": "instagram",
+      "headline": "Endurance Grand’s recent reels",
+      "context": "New reels from Ghanaian performer Endurance Grand.",
+      "sourceURL": "https://www.instagram.com/endurancegrand/reel/DeLDy7GoqH5",
+      "imageURL": null,
+      "previews": [
+        {
+          "creator": "Endurance Grand",
+          "caption": "A reel posted October 6.",
+          "postURL": "https://www.instagram.com/endurancegrand/reel/DeLDy7GoqH5",
+          "imageURL": null,
+          "isVideo": true
+        },
+        {
+          "creator": "Endurance Grand",
+          "caption": "A reel posted October 4.",
+          "postURL": "https://www.instagram.com/endurancegrand/reel/DeFdx5_NXFx",
+          "imageURL": null,
+          "isVideo": true
+        },
+        {
+          "creator": "Endurance Grand",
+          "caption": "A reel posted October 1.",
+          "postURL": "https://www.instagram.com/endurancegrand/reel/Dd8xAu8N7ik",
+          "imageURL": null,
+          "isVideo": true
+        },
+        {
+          "creator": "Endurance Grand",
+          "caption": "A September 30 reel.",
+          "postURL": "https://www.instagram.com/endurancegrand/reel/Dd7QGNptUCs",
+          "imageURL": null,
+          "isVideo": true
+        }
+      ]
+    },
+    {
+      "topicID": "ghana-entertainment",
+      "platform": "instagram",
+      "headline": "Ghana entertainment moments",
+      "context": "New October 6 clips from Ghanaian account Ghkwaku.",
+      "sourceURL": "https://www.instagram.com/ghkwaku/reel/DeK60K6osjB/",
+      "imageURL": null,
+      "previews": [
+        {
+          "creator": "Ghkwaku",
+          "caption": "An entertainment reel.",
+          "postURL": "https://www.instagram.com/ghkwaku/reel/DeK60K6osjB/",
+          "imageURL": null,
+          "isVideo": true
+        },
+        {
+          "creator": "Ghkwaku",
+          "caption": "A poster-style post.",
+          "postURL": "https://www.instagram.com/ghkwaku/p/DeKL0cUMWXI/",
+          "imageURL": null,
+          "isVideo": false
+        },
+        {
+          "creator": "Ghkwaku",
+          "caption": "A crowd clip.",
+          "postURL": "https://www.instagram.com/ghkwaku/reel/DeKDIEXKOYP/",
+          "imageURL": null,
+          "isVideo": true
+        },
+        {
+          "creator": "Ghkwaku",
+          "caption": "Another short reel.",
+          "postURL": "https://www.instagram.com/ghkwaku/reel/DeKBsiXq_pY/",
+          "imageURL": null,
+          "isVideo": true
+        }
+      ]
+    },
+    {
+      "topicID": "tv3-headlines",
+      "platform": "instagram",
+      "headline": "TV3 Ghana’s October 7 posts",
+      "context": "Fresh posts from TV3 Ghana’s account.",
+      "sourceURL": "https://www.instagram.com/tv3_ghana/p/DeL2zM_tybk/",
+      "imageURL": null,
+      "previews": [
+        {
+          "creator": "TV3 Ghana",
+          "caption": "An October 7 news graphic.",
+          "postURL": "https://www.instagram.com/tv3_ghana/p/DeL2zM_tybk/",
+          "imageURL": null,
+          "isVideo": false
+        },
+        {
+          "creator": "TV3 Ghana",
+          "caption": "An October 7 photo post.",
+          "postURL": "https://www.instagram.com/tv3_ghana/p/DeL1YIrtB3F/",
+          "imageURL": null,
+          "isVideo": false
+        },
+        {
+          "creator": "TV3 Ghana",
+          "caption": "Another October 7 news graphic.",
+          "postURL": "https://www.instagram.com/tv3_ghana/p/DeL1JKpNKUZ/",
+          "imageURL": null,
+          "isVideo": false
+        },
+        {
+          "creator": "TV3 Ghana",
+          "caption": "A reel posted October 7.",
+          "postURL": "https://www.instagram.com/tv3_ghana/reel/DeL0s-fNscA/",
+          "imageURL": null,
+          "isVideo": true
+        }
+      ]
+    },
+    {
+      "topicID": "men-dey-video",
+      "platform": "youtube",
+      "headline": "Shatta Wale releases MEN DEY",
+      "context": "A new official video leads his recent music clips.",
+      "sourceURL": "https://www.youtube.com/watch?v=0jq-ML5TD20",
+      "imageURL": "https://i.ytimg.com/vi/0jq-ML5TD20/hqdefault.jpg",
+      "previews": [
+        {
+          "creator": "Shatta Wale",
+          "caption": "MEN DEY official music video.",
+          "postURL": "https://www.youtube.com/watch?v=0jq-ML5TD20",
+          "imageURL": "https://i.ytimg.com/vi/0jq-ML5TD20/hqdefault.jpg",
+          "isVideo": true
+        },
+        {
+          "creator": "Shatta Wale",
+          "caption": "MEN DEY audio release.",
+          "postURL": "https://www.youtube.com/watch?v=E4WM4DHv5aI",
+          "imageURL": "https://i.ytimg.com/vi/E4WM4DHv5aI/hqdefault.jpg",
+          "isVideo": true
+        },
+        {
+          "creator": "DON PAPA REACTS",
+          "caption": "A breakdown of MEN DEY.",
+          "postURL": "https://www.youtube.com/watch?v=iWPYtcAZ_IM",
+          "imageURL": "https://i.ytimg.com/vi/iWPYtcAZ_IM/hqdefault.jpg",
+          "isVideo": true
+        },
+        {
+          "creator": "MisterJaay Official Reactionz",
+          "caption": "A reaction to MEN DEY.",
+          "postURL": "https://www.youtube.com/watch?v=9T68-1KxA6M",
+          "imageURL": "https://i.ytimg.com/vi/9T68-1KxA6M/hqdefault.jpg",
+          "isVideo": true
+        }
+      ]
+    },
+    {
+      "topicID": "bombele-video",
+      "platform": "youtube",
+      "headline": "Kweku Smoke’s Bombele",
+      "context": "Official video, visualizer, lyrics, and album conversation.",
+      "sourceURL": "https://www.youtube.com/watch?v=xMZOwSJIN6I",
+      "imageURL": "https://i.ytimg.com/vi/xMZOwSJIN6I/hqdefault.jpg",
+      "previews": [
+        {
+          "creator": "Kweku Smoke",
+          "caption": "Bombele official video.",
+          "postURL": "https://www.youtube.com/watch?v=xMZOwSJIN6I",
+          "imageURL": "https://i.ytimg.com/vi/xMZOwSJIN6I/hqdefault.jpg",
+          "isVideo": true
+        },
+        {
+          "creator": "Kweku Smoke",
+          "caption": "Bombele audio visualizer.",
+          "postURL": "https://www.youtube.com/watch?v=tKD6BCGdXlU",
+          "imageURL": "https://i.ytimg.com/vi/tKD6BCGdXlU/hqdefault.jpg",
+          "isVideo": true
+        },
+        {
+          "creator": "Joye BiQo",
+          "caption": "Bombele lyric video.",
+          "postURL": "https://www.youtube.com/watch?v=JJ1YxKmrc-Y",
+          "imageURL": "https://i.ytimg.com/vi/JJ1YxKmrc-Y/hqdefault.jpg",
+          "isVideo": true
+        },
+        {
+          "creator": "The Breakdown With KSS",
+          "caption": "Kweku Smoke discusses No Days Off.",
+          "postURL": "https://www.youtube.com/watch?v=dGYCeumbyFk",
+          "imageURL": "https://i.ytimg.com/vi/dGYCeumbyFk/hqdefault.jpg",
+          "isVideo": true
+        }
+      ]
+    },
+    {
+      "topicID": "fameye-gen-z",
+      "platform": "youtube",
+      "headline": "Fameye’s Gen Z draws reactions",
+      "context": "Music video, lyric versions, and creator breakdowns.",
+      "sourceURL": "https://www.youtube.com/watch?v=PzLr5Ib8pCo",
+      "imageURL": "https://i.ytimg.com/vi/PzLr5Ib8pCo/hqdefault.jpg",
+      "previews": [
+        {
+          "creator": "Fameye",
+          "caption": "Gen Z official video.",
+          "postURL": "https://www.youtube.com/watch?v=PzLr5Ib8pCo",
+          "imageURL": "https://i.ytimg.com/vi/PzLr5Ib8pCo/hqdefault.jpg",
+          "isVideo": true
+        },
+        {
+          "creator": "Gh Royal Lyrics",
+          "caption": "Gen Z lyric video.",
+          "postURL": "https://www.youtube.com/watch?v=9tH6AOvEF1M",
+          "imageURL": "https://i.ytimg.com/vi/9tH6AOvEF1M/hqdefault.jpg",
+          "isVideo": true
+        },
+        {
+          "creator": "Code Micky TV",
+          "caption": "A new decoding of Gen Z.",
+          "postURL": "https://www.youtube.com/watch?v=PkJW07stTcg",
+          "imageURL": "https://i.ytimg.com/vi/PkJW07stTcg/hqdefault.jpg",
+          "isVideo": true
+        },
+        {
+          "creator": "Band Masters",
+          "caption": "A live arrangement with Fameye.",
+          "postURL": "https://www.youtube.com/watch?v=MwlCxWe9kG4",
+          "imageURL": "https://i.ytimg.com/vi/MwlCxWe9kG4/hqdefault.jpg",
+          "isVideo": true
+        }
+      ]
+    },
+    {
+      "topicID": "bendova-video",
+      "platform": "youtube",
+      "headline": "Wendy Shay and Lasmid’s Bendova",
+      "context": "The video, lyric uploads, and an interview.",
+      "sourceURL": "https://www.youtube.com/watch?v=F5xgw4j_Cbg",
+      "imageURL": "https://i.ytimg.com/vi/F5xgw4j_Cbg/hqdefault.jpg",
+      "previews": [
+        {
+          "creator": "Wendy Shay & Lasmid",
+          "caption": "Bendova music video.",
+          "postURL": "https://www.youtube.com/watch?v=F5xgw4j_Cbg",
+          "imageURL": "https://i.ytimg.com/vi/F5xgw4j_Cbg/hqdefault.jpg",
+          "isVideo": true
+        },
+        {
+          "creator": "VANZ Lyrics",
+          "caption": "Bendova lyric video.",
+          "postURL": "https://www.youtube.com/watch?v=Bcfwy19QInA",
+          "imageURL": "https://i.ytimg.com/vi/Bcfwy19QInA/hqdefault.jpg",
+          "isVideo": true
+        },
+        {
+          "creator": "Street is Watching",
+          "caption": "Wendy Shay discusses Lasmid.",
+          "postURL": "https://www.youtube.com/watch?v=Lvj1k9RG93c",
+          "imageURL": "https://i.ytimg.com/vi/Lvj1k9RG93c/hqdefault.jpg",
+          "isVideo": true
+        },
+        {
+          "creator": "Code Micky TV",
+          "caption": "A decoding of Bendova.",
+          "postURL": "https://www.youtube.com/watch?v=cqESbCkP0Jg",
+          "imageURL": "https://i.ytimg.com/vi/cqESbCkP0Jg/hqdefault.jpg",
+          "isVideo": true
+        }
+      ]
+    },
+    {
+      "topicID": "black-sherif-videos",
+      "platform": "youtube",
+      "headline": "Black Sherif’s latest videos",
+      "context": "New official videos and Vevo performances.",
+      "sourceURL": "https://www.youtube.com/watch?v=mwnr_9AmCbA",
+      "imageURL": "https://i.ytimg.com/vi/mwnr_9AmCbA/hqdefault.jpg",
+      "previews": [
+        {
+          "creator": "Black Sherif",
+          "caption": "Run Around official video.",
+          "postURL": "https://www.youtube.com/watch?v=mwnr_9AmCbA",
+          "imageURL": "https://i.ytimg.com/vi/mwnr_9AmCbA/hqdefault.jpg",
+          "isVideo": true
+        },
+        {
+          "creator": "Black Sherif",
+          "caption": "Jolie lyric video.",
+          "postURL": "https://www.youtube.com/watch?v=iLXK-vLitDg",
+          "imageURL": "https://i.ytimg.com/vi/iLXK-vLitDg/hqdefault.jpg",
+          "isVideo": true
+        },
+        {
+          "creator": "Black Sherif",
+          "caption": "Forever lyric video featuring AratheJay.",
+          "postURL": "https://www.youtube.com/watch?v=vrUp_Lh38dg",
+          "imageURL": "https://i.ytimg.com/vi/vrUp_Lh38dg/hqdefault.jpg",
+          "isVideo": true
+        },
+        {
+          "creator": "Black Sherif",
+          "caption": "Run Around for Vevo DSCVR.",
+          "postURL": "https://www.youtube.com/watch?v=jaZ27EtuEB4",
+          "imageURL": "https://i.ytimg.com/vi/jaZ27EtuEB4/hqdefault.jpg",
+          "isVideo": true
+        }
+      ]
+    }
+  ]
+}
