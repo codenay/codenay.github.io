@@ -18,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: Collect Ghana search and YouTube candidates
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
