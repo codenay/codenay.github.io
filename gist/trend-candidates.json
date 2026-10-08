@@ -8,26 +8,44 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
+          "title": "bank",
+          "searchVolume": "1000+",
+          "startedAt": "2026-10-08T20:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "nigeria national football team",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-08T20:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "edward anato nsmq",
+          "searchVolume": "5000+",
+          "startedAt": "2026-10-08T18:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "ghana premier league match officials",
-          "searchVolume": "100+",
+          "searchVolume": "500+",
           "startedAt": "2026-10-08T18:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "kwame governs agbodza",
-          "searchVolume": "200+",
+          "searchVolume": "500+",
           "startedAt": "2026-10-08T17:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "ghana national science and maths quiz",
-          "searchVolume": "2000+",
-          "startedAt": "2026-10-08T16:20:00Z",
+          "title": "gemini ai",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-08T16:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "africa cup of nations",
-          "searchVolume": "1000+",
+          "searchVolume": "2000+",
           "startedAt": "2026-10-08T16:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -48,24 +66,6 @@
           "searchVolume": "500+",
           "startedAt": "2026-10-08T14:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "mathematics",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-08T11:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "tottenham hotspur f.c.",
-          "searchVolume": "1000+",
-          "startedAt": "2026-10-08T10:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "president of burkina faso",
-          "searchVolume": "2000+",
-          "startedAt": "2026-10-08T07:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
     },
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-08T19:26:42Z"
+  "generatedAt": "2026-10-08T23:57:35Z"
 }
