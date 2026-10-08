@@ -8,14 +8,56 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "david silva",
+          "title": "mathematics",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-08T11:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "tottenham hotspur f.c.",
           "searchVolume": "200+",
+          "startedAt": "2026-10-08T10:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "president of burkina faso",
+          "searchVolume": "2000+",
+          "startedAt": "2026-10-08T07:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "declan rice",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-08T06:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "ange postecoglou",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-08T02:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "la pleasure beach redevelopment suspended",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-07T21:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "david silva",
+          "searchVolume": "1000+",
           "startedAt": "2026-10-07T20:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
+          "title": "ghana cedi mutilated banknotes warning",
+          "searchVolume": "2000+",
+          "startedAt": "2026-10-07T18:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "inflation",
-          "searchVolume": "500+",
+          "searchVolume": "1000+",
           "startedAt": "2026-10-07T18:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -23,48 +65,6 @@
           "title": "mikel arteta",
           "searchVolume": "100+",
           "startedAt": "2026-10-07T16:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "marc pubill",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-07T16:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "momo",
-          "searchVolume": "1000+",
-          "startedAt": "2026-10-07T15:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "industrial action",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-07T14:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "samsung galaxy",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-07T14:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "jj gabriel man utd",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-07T13:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "forex factory",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-07T12:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "riccardo calafiori",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-07T10:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-08T06:02:17Z"
+  "generatedAt": "2026-10-08T13:27:35Z"
 }
