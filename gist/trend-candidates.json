@@ -8,63 +8,63 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "málaga vs espanyol",
+          "title": "anfield",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-09T21:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "donald trump",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-09T21:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "international criminal court",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-09T21:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "michael carrick",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-09T20:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "psv",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-09T19:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "alexander isak",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-09T19:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "football",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-09T19:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "fotmob",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-09T19:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "real madrid",
+          "searchVolume": "1000+",
+          "startedAt": "2026-10-09T19:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "lens vs ol",
           "searchVolume": "200+",
-          "startedAt": "2026-10-09T18:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "galatasaray",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-09T18:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "west ham vs qpr",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-09T18:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "slavia prague",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-09T18:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "epl",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-09T18:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "dortmund vs werder",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-09T18:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "premier league",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-09T17:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "al-nassr vs diriyah",
-          "searchVolume": "2000+",
-          "startedAt": "2026-10-09T17:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "galatasaray vs kasımpaşa",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-09T16:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "laliga",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-09T16:40:00Z",
+          "startedAt": "2026-10-09T19:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-09T18:50:38Z"
+  "generatedAt": "2026-10-09T23:15:34Z"
 }
