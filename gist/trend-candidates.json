@@ -8,6 +8,48 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
+          "title": "josé mourinho",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-09T11:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "ghana women's national football team",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-09T11:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "senegal national football team",
+          "searchVolume": "2000+",
+          "startedAt": "2026-10-09T11:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "mikel arteta",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-09T09:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "al-nassr fc",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-09T08:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "granit xhaka",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-09T08:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "deportation",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-09T07:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "nba",
           "searchVolume": "100+",
           "startedAt": "2026-10-09T00:30:00Z",
@@ -15,7 +57,7 @@
         },
         {
           "title": "bank",
-          "searchVolume": "1000+",
+          "searchVolume": "2000+",
           "startedAt": "2026-10-08T20:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -23,48 +65,6 @@
           "title": "nigeria national football team",
           "searchVolume": "200+",
           "startedAt": "2026-10-08T20:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "edward anato nsmq",
-          "searchVolume": "5000+",
-          "startedAt": "2026-10-08T18:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "ghana premier league match officials",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-08T18:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "kwame governs agbodza",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-08T17:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "gemini ai",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-08T16:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "africa cup of nations",
-          "searchVolume": "2000+",
-          "startedAt": "2026-10-08T16:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "ibrahim mahama dzata cement anniversary",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-08T16:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "minister for education of ghana",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-08T15:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-09T06:07:10Z"
+  "generatedAt": "2026-10-09T13:15:24Z"
 }
