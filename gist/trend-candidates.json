@@ -8,6 +8,12 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
+          "title": "nba",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-09T00:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "bank",
           "searchVolume": "1000+",
           "startedAt": "2026-10-08T20:30:00Z",
@@ -56,15 +62,9 @@
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "ghana national football team",
-          "searchVolume": "1000+",
-          "startedAt": "2026-10-08T14:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "iran",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-08T14:10:00Z",
+          "title": "minister for education of ghana",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-08T15:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-08T23:57:35Z"
+  "generatedAt": "2026-10-09T06:07:10Z"
 }
