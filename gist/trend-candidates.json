@@ -8,63 +8,63 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "josé mourinho",
+          "title": "málaga vs espanyol",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-09T18:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "galatasaray",
           "searchVolume": "100+",
-          "startedAt": "2026-10-09T11:50:00Z",
+          "startedAt": "2026-10-09T18:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "ghana women's national football team",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-09T11:50:00Z",
+          "title": "west ham vs qpr",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-09T18:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "senegal national football team",
-          "searchVolume": "2000+",
-          "startedAt": "2026-10-09T11:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "mikel arteta",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-09T09:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "al-nassr fc",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-09T08:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "granit xhaka",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-09T08:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "deportation",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-09T07:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "nba",
+          "title": "slavia prague",
           "searchVolume": "100+",
-          "startedAt": "2026-10-09T00:30:00Z",
+          "startedAt": "2026-10-09T18:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "bank",
-          "searchVolume": "2000+",
-          "startedAt": "2026-10-08T20:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "nigeria national football team",
+          "title": "epl",
           "searchVolume": "200+",
-          "startedAt": "2026-10-08T20:30:00Z",
+          "startedAt": "2026-10-09T18:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "dortmund vs werder",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-09T18:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "premier league",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-09T17:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "al-nassr vs diriyah",
+          "searchVolume": "2000+",
+          "startedAt": "2026-10-09T17:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "galatasaray vs kasımpaşa",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-09T16:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "laliga",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-09T16:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-09T13:15:24Z"
+  "generatedAt": "2026-10-09T18:50:38Z"
 }
