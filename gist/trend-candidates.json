@@ -8,6 +8,24 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
+          "title": "australia",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-10T07:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "chelsea",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-10T04:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "teachers strike",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-10T03:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "anfield",
           "searchVolume": "100+",
           "startedAt": "2026-10-09T21:30:00Z",
@@ -26,6 +44,12 @@
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
+          "title": "west ham",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-09T20:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "michael carrick",
           "searchVolume": "500+",
           "startedAt": "2026-10-09T20:10:00Z",
@@ -39,32 +63,8 @@
         },
         {
           "title": "alexander isak",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-09T19:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "football",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-09T19:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "fotmob",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-09T19:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "real madrid",
-          "searchVolume": "1000+",
-          "startedAt": "2026-10-09T19:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "lens vs ol",
           "searchVolume": "200+",
-          "startedAt": "2026-10-09T19:00:00Z",
+          "startedAt": "2026-10-09T19:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-10T02:22:37Z"
+  "generatedAt": "2026-10-10T09:01:22Z"
 }
