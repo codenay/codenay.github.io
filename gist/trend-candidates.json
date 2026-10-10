@@ -15,7 +15,7 @@
         },
         {
           "title": "donald trump",
-          "searchVolume": "100+",
+          "searchVolume": "200+",
           "startedAt": "2026-10-09T21:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-09T23:15:34Z"
+  "generatedAt": "2026-10-10T02:22:37Z"
 }
