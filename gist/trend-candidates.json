@@ -8,63 +8,63 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "madrid vs",
+          "title": "real madrid match",
           "searchVolume": "100+",
-          "startedAt": "2026-10-10T19:20:00Z",
+          "startedAt": "2026-10-10T21:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "ajax fc",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-10T21:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "psg vs le mans fc standings",
+          "searchVolume": "1000+",
+          "startedAt": "2026-10-10T21:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "kylian mbappé",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-10T21:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "vinícius júnior",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-10T20:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "ajax",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-10T20:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "felix kwakye ofosu",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-10T20:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "real madrid vs",
+          "searchVolume": "1000+",
+          "startedAt": "2026-10-10T19:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "monaco vs toulouse",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-10T19:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "napoli vs frosinone",
-          "searchVolume": "200+",
+          "searchVolume": "500+",
           "startedAt": "2026-10-10T19:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "fc barcelona vs getafe cf standings",
-          "searchVolume": "10000+",
-          "startedAt": "2026-10-10T18:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "porto",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-10T18:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "lamine yamal",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-10T18:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "porto fc",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-10T18:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "al-hilal vs al-ittihad",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-10T18:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "usa vs spain",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-10T18:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "real madrid vs villarreal",
-          "searchVolume": "10000+",
-          "startedAt": "2026-10-10T18:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "psg vs le mans",
-          "searchVolume": "2000+",
-          "startedAt": "2026-10-10T18:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-10T19:31:34Z"
+  "generatedAt": "2026-10-10T22:56:44Z"
 }
