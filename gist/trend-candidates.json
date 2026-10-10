@@ -8,63 +8,63 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "australia",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-10T07:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "chelsea",
+          "title": "watford vs burnley",
           "searchVolume": "100+",
-          "startedAt": "2026-10-10T04:40:00Z",
+          "startedAt": "2026-10-10T14:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "teachers strike",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-10T03:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "anfield",
+          "title": "middlesbrough vs wolves",
           "searchVolume": "100+",
-          "startedAt": "2026-10-09T21:30:00Z",
+          "startedAt": "2026-10-10T14:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "donald trump",
+          "title": "bayern",
           "searchVolume": "200+",
-          "startedAt": "2026-10-09T21:20:00Z",
+          "startedAt": "2026-10-10T14:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "international criminal court",
+          "title": "mainz vs leverkusen",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-10T14:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "bundesliga",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-10T14:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "raphinha",
           "searchVolume": "100+",
-          "startedAt": "2026-10-09T21:00:00Z",
+          "startedAt": "2026-10-10T14:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "west ham",
+          "title": "bayern munich",
+          "searchVolume": "1000+",
+          "startedAt": "2026-10-10T13:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "alavés vs atlético",
+          "searchVolume": "2000+",
+          "startedAt": "2026-10-10T13:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "genoa vs fiorentina",
           "searchVolume": "200+",
-          "startedAt": "2026-10-09T20:30:00Z",
+          "startedAt": "2026-10-10T13:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "michael carrick",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-09T20:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "psv",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-09T19:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "alexander isak",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-09T19:30:00Z",
+          "title": "sunderland vs brighton",
+          "searchVolume": "2000+",
+          "startedAt": "2026-10-10T13:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-10T09:01:22Z"
+  "generatedAt": "2026-10-10T15:22:23Z"
 }
