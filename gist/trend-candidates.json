@@ -8,63 +8,63 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "juventus",
+          "title": "kingsley coman",
           "searchVolume": "100+",
+          "startedAt": "2026-10-11T22:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "head coach",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-11T22:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "andy burnham",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-11T21:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "panama earthquake today",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-11T20:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "juventus",
+          "searchVolume": "1000+",
           "startedAt": "2026-10-11T19:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "troyes vs marseille",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-11T19:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "alessia russo",
           "searchVolume": "100+",
           "startedAt": "2026-10-11T19:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "racing santander vs valencia",
-          "searchVolume": "200+",
+          "searchVolume": "1000+",
           "startedAt": "2026-10-11T18:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "cagliari vs juventus",
+          "title": "university of ghana",
           "searchVolume": "500+",
-          "startedAt": "2026-10-11T18:20:00Z",
+          "startedAt": "2026-10-11T18:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "benfica",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-11T18:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "thunderstorm warning",
+          "title": "cagliari vs juventus",
           "searchVolume": "1000+",
-          "startedAt": "2026-10-11T18:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "serie a",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-11T18:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "naruto",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-11T17:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "benfica vs vitória sc",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-11T17:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "weather today",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-11T17:10:00Z",
+          "startedAt": "2026-10-11T18:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-11T19:43:21Z"
+  "generatedAt": "2026-10-11T23:11:03Z"
 }
