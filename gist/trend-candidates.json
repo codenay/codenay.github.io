@@ -8,6 +8,18 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
+          "title": "liverpool",
+          "searchVolume": "1000+",
+          "startedAt": "2026-10-11T08:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "bus",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-11T07:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "videos",
           "searchVolume": "200+",
           "startedAt": "2026-10-10T23:30:00Z",
@@ -15,13 +27,19 @@
         },
         {
           "title": "inter miami vs d.c. united",
-          "searchVolume": "2000+",
+          "searchVolume": "20000+",
           "startedAt": "2026-10-10T22:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "volodymyr zelenskyy",
+          "title": "ecobank yuan transactions africa china",
           "searchVolume": "100+",
+          "startedAt": "2026-10-10T22:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "volodymyr zelenskyy",
+          "searchVolume": "200+",
           "startedAt": "2026-10-10T21:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -48,24 +66,6 @@
           "searchVolume": "500+",
           "startedAt": "2026-10-10T21:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "vinícius júnior",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-10T20:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "ajax",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-10T20:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "felix kwakye ofosu",
-          "searchVolume": "1000+",
-          "startedAt": "2026-10-10T20:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
     },
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-11T01:52:34Z"
+  "generatedAt": "2026-10-11T08:48:56Z"
 }
