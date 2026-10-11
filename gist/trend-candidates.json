@@ -8,63 +8,63 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "crystal palace f.c. vs nottingham forest standings",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-11T15:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "hearts of oak vs port city",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-11T15:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "sociedad vs deportivo",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-11T14:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "roma",
+          "title": "juventus",
           "searchVolume": "100+",
-          "startedAt": "2026-10-11T12:40:00Z",
+          "startedAt": "2026-10-11T19:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "hull vs everton",
-          "searchVolume": "2000+",
-          "startedAt": "2026-10-11T12:30:00Z",
+          "title": "troyes vs marseille",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-11T19:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "como",
+          "title": "racing santander vs valencia",
           "searchVolume": "200+",
-          "startedAt": "2026-10-11T12:30:00Z",
+          "startedAt": "2026-10-11T18:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "f1",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-11T12:20:00Z",
+          "title": "cagliari vs juventus",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-11T18:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "liverpool vs man city",
-          "searchVolume": "10000+",
-          "startedAt": "2026-10-11T12:00:00Z",
+          "title": "benfica",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-11T18:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "elche vs celta",
+          "title": "thunderstorm warning",
           "searchVolume": "1000+",
-          "startedAt": "2026-10-11T11:30:00Z",
+          "startedAt": "2026-10-11T18:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "southampton vs portsmouth",
+          "title": "serie a",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-11T18:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "naruto",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-11T17:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "benfica vs vitória sc",
           "searchVolume": "200+",
-          "startedAt": "2026-10-11T11:30:00Z",
+          "startedAt": "2026-10-11T17:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "weather today",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-11T17:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-11T15:39:35Z"
+  "generatedAt": "2026-10-11T19:43:21Z"
 }
