@@ -8,63 +8,63 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "ilhan omar",
+          "title": "al sadd vs al-hilal",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-13T16:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "ghana women's national football team",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-13T15:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "god of war iii",
           "searchVolume": "100+",
+          "startedAt": "2026-10-13T13:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "ghana fa cup",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-13T13:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "football player",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-13T12:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "court",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-13T11:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "united arab emirates",
+          "searchVolume": "1000+",
+          "startedAt": "2026-10-13T08:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "emelia affi agbenyo",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-13T07:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "ilhan omar",
+          "searchVolume": "200+",
           "startedAt": "2026-10-13T04:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "kwabena adu boahene no case submission",
-          "searchVolume": "500+",
+          "searchVolume": "2000+",
           "startedAt": "2026-10-13T00:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "al-nassr vs neftchi fergana standings",
-          "searchVolume": "10000+",
-          "startedAt": "2026-10-12T21:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "rj mitte",
-          "searchVolume": "1000+",
-          "startedAt": "2026-10-12T21:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "levante ud vs sevilla fc standings",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-12T21:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "driver and vehicle licensing authority simulator",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-12T20:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "amg armani",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-12T20:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "digger",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-12T20:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "torino vs udinese",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-12T20:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "al nassr club vs fk neftchi fargona",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-12T18:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-13T08:27:36Z"
+  "generatedAt": "2026-10-13T16:27:12Z"
 }
