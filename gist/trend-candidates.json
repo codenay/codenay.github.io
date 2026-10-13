@@ -8,63 +8,63 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "levante vs sevilla",
+          "title": "rj mitte",
           "searchVolume": "500+",
+          "startedAt": "2026-10-12T21:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "levante ud vs sevilla fc standings",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-12T21:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "driver and vehicle licensing authority simulator",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-12T20:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "digger",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-12T20:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "amg armani",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-12T20:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "torino vs udinese",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-12T20:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "al nassr club vs fk neftchi fargona",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-12T18:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "levante vs sevilla",
+          "searchVolume": "2000+",
+          "startedAt": "2026-10-12T18:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "ucl",
+          "searchVolume": "100+",
           "startedAt": "2026-10-12T18:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "coventry vs newcastle",
-          "searchVolume": "2000+",
+          "searchVolume": "10000+",
           "startedAt": "2026-10-12T18:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "al-nassr vs neftchi fergana",
-          "searchVolume": "2000+",
-          "startedAt": "2026-10-12T17:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "emelia afi agbenyo",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-12T17:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "panama earthquakes",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-12T16:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "ilkay gündoğan",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-12T16:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "atalanta vs venezia",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-12T16:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "bill gates",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-12T16:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "liquidity coverage ratio",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-12T14:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "ghana national under-23 football team",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-12T14:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-12T19:22:32Z"
+  "generatedAt": "2026-10-13T01:37:31Z"
 }
