@@ -8,8 +8,26 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "rj mitte",
+          "title": "ilhan omar",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-13T04:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "kwabena adu boahene no case submission",
           "searchVolume": "500+",
+          "startedAt": "2026-10-13T00:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "al-nassr vs neftchi fergana standings",
+          "searchVolume": "10000+",
+          "startedAt": "2026-10-12T21:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "rj mitte",
+          "searchVolume": "1000+",
           "startedAt": "2026-10-12T21:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -21,19 +39,19 @@
         },
         {
           "title": "driver and vehicle licensing authority simulator",
-          "searchVolume": "200+",
+          "searchVolume": "500+",
           "startedAt": "2026-10-12T20:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "digger",
+          "title": "amg armani",
           "searchVolume": "200+",
           "startedAt": "2026-10-12T20:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "amg armani",
-          "searchVolume": "100+",
+          "title": "digger",
+          "searchVolume": "200+",
           "startedAt": "2026-10-12T20:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -48,24 +66,6 @@
           "searchVolume": "200+",
           "startedAt": "2026-10-12T18:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "levante vs sevilla",
-          "searchVolume": "2000+",
-          "startedAt": "2026-10-12T18:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "ucl",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-12T18:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "coventry vs newcastle",
-          "searchVolume": "10000+",
-          "startedAt": "2026-10-12T18:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
     },
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-13T01:37:31Z"
+  "generatedAt": "2026-10-13T08:27:36Z"
 }
