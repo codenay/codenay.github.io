@@ -8,63 +8,63 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "west african football union",
+          "title": "flash score",
           "searchVolume": "100+",
-          "startedAt": "2026-10-14T14:20:00Z",
+          "startedAt": "2026-10-14T19:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "knust",
+          "title": "real madrid",
+          "searchVolume": "2000+",
+          "startedAt": "2026-10-14T19:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "city vs psg",
           "searchVolume": "200+",
-          "startedAt": "2026-10-14T13:40:00Z",
+          "startedAt": "2026-10-14T19:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "lisandro martínez",
+          "title": "real madrid match today",
+          "searchVolume": "2000+",
+          "startedAt": "2026-10-14T19:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "psg",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-14T19:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "lincoln city vs west ham",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-14T18:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "bodø/glimt vs dortmund",
           "searchVolume": "200+",
-          "startedAt": "2026-10-14T12:50:00Z",
+          "startedAt": "2026-10-14T18:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "capital punishment",
+          "title": "betis vs porto",
           "searchVolume": "200+",
-          "startedAt": "2026-10-14T12:00:00Z",
+          "startedAt": "2026-10-14T18:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "forex factory",
+          "title": "fotmob",
           "searchVolume": "200+",
-          "startedAt": "2026-10-14T12:00:00Z",
+          "startedAt": "2026-10-14T18:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "ghana football team afcon 2027",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-14T11:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "ukraine",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-14T10:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "luis enrique",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-14T10:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "god of war 3 pc port",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-14T02:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "god of war 3 remastered",
-          "searchVolume": "1000+",
-          "startedAt": "2026-10-14T01:30:00Z",
+          "title": "aston villa vs fenerbahçe",
+          "searchVolume": "2000+",
+          "startedAt": "2026-10-14T18:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-14T15:30:04Z"
+  "generatedAt": "2026-10-14T19:42:32Z"
 }
