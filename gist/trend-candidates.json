@@ -8,63 +8,63 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "flash score",
+          "title": "christian tetteh yohuno",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-14T22:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "antoine semenyo",
           "searchVolume": "100+",
-          "startedAt": "2026-10-14T19:30:00Z",
+          "startedAt": "2026-10-14T21:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "real madrid",
+          "title": "aston villa vs fenerbahçe standings",
           "searchVolume": "2000+",
-          "startedAt": "2026-10-14T19:20:00Z",
+          "startedAt": "2026-10-14T21:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "city vs psg",
+          "title": "live score",
           "searchVolume": "200+",
-          "startedAt": "2026-10-14T19:20:00Z",
+          "startedAt": "2026-10-14T20:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "real madrid match today",
-          "searchVolume": "2000+",
-          "startedAt": "2026-10-14T19:10:00Z",
+          "title": "real madrid match",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-14T20:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "psg",
+          "title": "champions league fixtures",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-14T20:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "dortmund",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-14T20:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "as roma",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-14T20:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "vinícius júnior",
           "searchVolume": "500+",
-          "startedAt": "2026-10-14T19:10:00Z",
+          "startedAt": "2026-10-14T20:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "lincoln city vs west ham",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-14T18:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "bodø/glimt vs dortmund",
+          "title": "psg vs",
           "searchVolume": "200+",
-          "startedAt": "2026-10-14T18:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "betis vs porto",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-14T18:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "fotmob",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-14T18:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "aston villa vs fenerbahçe",
-          "searchVolume": "2000+",
-          "startedAt": "2026-10-14T18:20:00Z",
+          "startedAt": "2026-10-14T20:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-14T19:42:32Z"
+  "generatedAt": "2026-10-14T22:38:38Z"
 }
