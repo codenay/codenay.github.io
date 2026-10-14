@@ -8,6 +8,12 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
+          "title": "god of war 3 remastered",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-14T01:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "usa vs spain",
           "searchVolume": "200+",
           "startedAt": "2026-10-13T23:10:00Z",
@@ -17,12 +23,6 @@
           "title": "fifa world cup",
           "searchVolume": "100+",
           "startedAt": "2026-10-13T21:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "inter",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-13T21:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
@@ -50,21 +50,21 @@
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
+          "title": "barca vs",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-13T19:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "burnley vs charlton",
           "searchVolume": "200+",
           "startedAt": "2026-10-13T19:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "livescores",
+          "title": "today matches",
           "searchVolume": "200+",
-          "startedAt": "2026-10-13T19:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "live",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-13T19:40:00Z",
+          "startedAt": "2026-10-13T19:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-14T00:37:16Z"
+  "generatedAt": "2026-10-14T05:25:03Z"
 }
