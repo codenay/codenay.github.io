@@ -8,6 +8,30 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
+          "title": "usa vs spain",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-13T23:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "fifa world cup",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-13T21:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "inter",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-13T21:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "arsenal f.c. vs losc lille standings",
+          "searchVolume": "2000+",
+          "startedAt": "2026-10-13T21:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "rb leipzig vs psv",
           "searchVolume": "100+",
           "startedAt": "2026-10-13T20:50:00Z",
@@ -15,14 +39,8 @@
         },
         {
           "title": "grand theft auto vi",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-13T20:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "arsenal vs lille",
           "searchVolume": "200+",
-          "startedAt": "2026-10-13T20:20:00Z",
+          "startedAt": "2026-10-13T20:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
@@ -44,27 +62,9 @@
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "flashscore",
-          "searchVolume": "5000+",
-          "startedAt": "2026-10-13T19:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "live score",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-13T19:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "808",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-13T19:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "champions league standings",
-          "searchVolume": "1000+",
-          "startedAt": "2026-10-13T19:20:00Z",
+          "title": "live",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-13T19:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-13T21:33:31Z"
+  "generatedAt": "2026-10-14T00:37:16Z"
 }
