@@ -8,8 +8,50 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "canada",
+          "title": "god of war 3 remastered pc",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-15T14:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "nigeria",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-15T13:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "ghana women's national under-17 football team",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-15T13:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "currency",
+          "searchVolume": "2000+",
+          "startedAt": "2026-10-15T13:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "kwame nkrumah",
           "searchVolume": "200+",
+          "startedAt": "2026-10-15T12:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "inspector general",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-15T12:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "hansi flick",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-15T11:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "canada",
+          "searchVolume": "500+",
           "startedAt": "2026-10-15T09:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -20,51 +62,9 @@
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "jason wilcox",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-15T04:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "apple homeview",
+          "title": "toluwanisings",
           "searchVolume": "200+",
-          "startedAt": "2026-10-14T23:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "god of war 3 pc port",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-14T23:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "inter miami vs new york city",
-          "searchVolume": "5000+",
-          "startedAt": "2026-10-14T22:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "christian tetteh yohuno",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-14T22:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "erling haaland",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-14T21:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "live score",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-14T20:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "real madrid match",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-14T20:50:00Z",
+          "startedAt": "2026-10-15T06:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-15T11:27:04Z"
+  "generatedAt": "2026-10-15T15:44:10Z"
 }
