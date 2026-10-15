@@ -8,7 +8,49 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
+          "title": "marseille vs olympiacos",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-15T20:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "atalanta vs pafos",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-15T20:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "benfica vs celtic",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-15T19:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "antoine semenyo",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-15T19:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "lamine yamal ballon d or potential",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-15T19:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "ac milan",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-15T18:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "celta vs juventus",
+          "searchVolume": "2000+",
+          "startedAt": "2026-10-15T18:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "jadon sancho",
           "searchVolume": "200+",
           "startedAt": "2026-10-15T18:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
@@ -21,50 +63,8 @@
         },
         {
           "title": "bournemouth vs sturm graz",
-          "searchVolume": "500+",
+          "searchVolume": "2000+",
           "startedAt": "2026-10-15T18:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "hajduk split vs ajax",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-15T18:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "snake",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-15T17:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "europa league",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-15T17:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "manchester united f.c.",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-15T16:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "lewis koumas",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-15T16:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "union vs real sociedad",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-15T16:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "arsène wenger",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-15T16:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-15T19:24:22Z"
+  "generatedAt": "2026-10-15T22:40:46Z"
 }
