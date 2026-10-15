@@ -8,6 +8,30 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
+          "title": "canada",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-15T09:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "météo",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-15T07:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "jason wilcox",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-15T04:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "apple homeview",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-14T23:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "god of war 3 pc port",
           "searchVolume": "100+",
           "startedAt": "2026-10-14T23:30:00Z",
@@ -15,7 +39,7 @@
         },
         {
           "title": "inter miami vs new york city",
-          "searchVolume": "2000+",
+          "searchVolume": "5000+",
           "startedAt": "2026-10-14T22:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -26,45 +50,21 @@
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "antoine semenyo",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-14T21:40:00Z",
+          "title": "erling haaland",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-14T21:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "roma vs madrid",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-14T21:20:00Z",
+          "title": "live score",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-14T20:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "real madrid match",
           "searchVolume": "200+",
           "startedAt": "2026-10-14T20:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "dortmund",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-14T20:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "sofascore",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-14T20:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "today matches",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-14T20:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "vinícius júnior",
-          "searchVolume": "1000+",
-          "startedAt": "2026-10-14T20:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-15T05:54:16Z"
+  "generatedAt": "2026-10-15T11:27:04Z"
 }
