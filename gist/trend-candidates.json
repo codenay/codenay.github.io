@@ -8,6 +8,12 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
+          "title": "chelsea f.c.",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-15T23:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "marseille vs olympiacos",
           "searchVolume": "100+",
           "startedAt": "2026-10-15T20:50:00Z",
@@ -45,7 +51,7 @@
         },
         {
           "title": "celta vs juventus",
-          "searchVolume": "2000+",
+          "searchVolume": "1000+",
           "startedAt": "2026-10-15T18:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -60,12 +66,6 @@
           "searchVolume": "200+",
           "startedAt": "2026-10-15T18:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "bournemouth vs sturm graz",
-          "searchVolume": "2000+",
-          "startedAt": "2026-10-15T18:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
     },
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-15T22:40:46Z"
+  "generatedAt": "2026-10-16T00:45:50Z"
 }
