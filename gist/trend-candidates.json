@@ -8,63 +8,63 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "reece james",
+          "title": "deportivo vs levante",
           "searchVolume": "200+",
+          "startedAt": "2026-10-16T18:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "burnley vs wolves",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-16T18:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "kofi adams",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-16T17:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "morgan rogers",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-16T16:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "mikel merino",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-16T16:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "nico williams",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-16T14:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "brandon thomas-asante",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-16T14:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "ballon d'or",
+          "searchVolume": "2000+",
+          "startedAt": "2026-10-16T14:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "reece james",
+          "searchVolume": "500+",
           "startedAt": "2026-10-16T12:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "jason arday",
+          "title": "new patriotic party",
           "searchVolume": "200+",
-          "startedAt": "2026-10-16T10:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "2026 ballon d'or",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-16T10:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "tesla roadster",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-16T09:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "eyes of ghana",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-16T09:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "kim björkegren",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-16T04:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "chelsea f.c.",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-15T23:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "rc celta de vigo vs juventus standings",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-15T22:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "brighton & hove albion f.c. vs fk kauno žalgiris standings",
-          "searchVolume": "2000+",
-          "startedAt": "2026-10-15T21:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "marseille vs olympiacos",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-15T20:50:00Z",
+          "startedAt": "2026-10-16T11:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-16T14:50:59Z"
+  "generatedAt": "2026-10-16T18:48:25Z"
 }
