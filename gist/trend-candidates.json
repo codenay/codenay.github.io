@@ -8,8 +8,20 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "accra",
+          "title": "atlanta united vs inter miami",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-17T23:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "shatta fest 2026",
           "searchVolume": "200+",
+          "startedAt": "2026-10-17T21:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "accra",
+          "searchVolume": "500+",
           "startedAt": "2026-10-17T20:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -38,12 +50,6 @@
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "bologna fc vs inter milan standings",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-17T18:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
           "title": "laliga games",
           "searchVolume": "100+",
           "startedAt": "2026-10-17T18:40:00Z",
@@ -56,14 +62,8 @@
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "barca vs betis",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-17T18:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
           "title": "roma vs genoa",
-          "searchVolume": "1000+",
+          "searchVolume": "2000+",
           "startedAt": "2026-10-17T18:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-17T21:27:46Z"
+  "generatedAt": "2026-10-17T23:26:00Z"
 }
