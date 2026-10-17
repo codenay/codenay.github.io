@@ -8,63 +8,63 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
+          "title": "accra",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-17T20:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "roma",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-17T19:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "real betis vs fc barcelona standings",
+          "searchVolume": "10000+",
+          "startedAt": "2026-10-17T18:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "bayern munich vs rb leipzig standings",
+          "searchVolume": "1000+",
+          "startedAt": "2026-10-17T18:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "real madrid vs espanyol",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-17T18:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "bologna fc vs inter milan standings",
           "searchVolume": "200+",
           "startedAt": "2026-10-17T18:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "lamine yamal",
-          "searchVolume": "500+",
+          "title": "laliga games",
+          "searchVolume": "100+",
           "startedAt": "2026-10-17T18:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "valencia vs athletic",
-          "searchVolume": "200+",
+          "searchVolume": "1000+",
+          "startedAt": "2026-10-17T18:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "barca vs betis",
+          "searchVolume": "100+",
           "startedAt": "2026-10-17T18:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "roma vs genoa",
-          "searchVolume": "500+",
+          "searchVolume": "1000+",
           "startedAt": "2026-10-17T18:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "india vs west indies",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-17T18:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "poison",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-17T17:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "emiliano martínez",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-17T17:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "laliga",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-17T17:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "villarreal cf vs elche cf standings",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-17T17:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "psg vs",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-17T17:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-17T18:50:45Z"
+  "generatedAt": "2026-10-17T21:27:46Z"
 }
