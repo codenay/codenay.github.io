@@ -8,63 +8,63 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "newcastle vs aston villa",
+          "title": "real madrid vs espanyol",
           "searchVolume": "200+",
-          "startedAt": "2026-10-17T16:00:00Z",
+          "startedAt": "2026-10-17T18:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "bologna vs inter",
+          "title": "lamine yamal",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-17T18:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "valencia vs athletic",
           "searchVolume": "200+",
-          "startedAt": "2026-10-17T15:50:00Z",
+          "startedAt": "2026-10-17T18:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "psg",
+          "title": "roma vs genoa",
           "searchVolume": "500+",
-          "startedAt": "2026-10-17T15:50:00Z",
+          "startedAt": "2026-10-17T18:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "betis vs barcelona",
-          "searchVolume": "5000+",
-          "startedAt": "2026-10-17T15:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "bayern vs rb leipzig",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-17T15:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "ghana national under-17 football team",
+          "title": "india vs west indies",
           "searchVolume": "100+",
-          "startedAt": "2026-10-17T15:40:00Z",
+          "startedAt": "2026-10-17T18:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "dortmund",
+          "title": "poison",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-17T17:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "emiliano martínez",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-17T17:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "laliga",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-17T17:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "villarreal cf vs elche cf standings",
           "searchVolume": "200+",
-          "startedAt": "2026-10-17T15:20:00Z",
+          "startedAt": "2026-10-17T17:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "vision vs hearts of oak",
-          "searchVolume": "1000+",
-          "startedAt": "2026-10-17T14:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "strasbourg vs psg",
-          "searchVolume": "2000+",
-          "startedAt": "2026-10-17T14:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "galatasaray",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-17T14:30:00Z",
+          "title": "psg vs",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-17T17:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-17T16:24:25Z"
+  "generatedAt": "2026-10-17T18:50:45Z"
 }
