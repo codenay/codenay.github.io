@@ -32,6 +32,12 @@
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
+          "title": "ghana galamsey river pollution sam jonah",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-16T19:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "xabi alonso",
           "searchVolume": "200+",
           "startedAt": "2026-10-16T19:10:00Z",
@@ -60,12 +66,6 @@
           "searchVolume": "500+",
           "startedAt": "2026-10-16T18:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "kofi adams",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-16T17:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
     },
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-17T00:28:23Z"
+  "generatedAt": "2026-10-17T05:00:16Z"
 }
