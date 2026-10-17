@@ -8,6 +8,12 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
+          "title": "deportivo de la coruna vs levante ud standings",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-16T22:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "michael carrick",
           "searchVolume": "200+",
           "startedAt": "2026-10-16T20:50:00Z",
@@ -15,7 +21,7 @@
         },
         {
           "title": "bus",
-          "searchVolume": "1000+",
+          "searchVolume": "2000+",
           "startedAt": "2026-10-16T19:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -51,20 +57,14 @@
         },
         {
           "title": "katie zacharia",
-          "searchVolume": "200+",
+          "searchVolume": "500+",
           "startedAt": "2026-10-16T18:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "kofi adams",
-          "searchVolume": "200+",
+          "searchVolume": "500+",
           "startedAt": "2026-10-16T17:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "morgan rogers",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-16T16:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-16T22:05:06Z"
+  "generatedAt": "2026-10-17T00:28:23Z"
 }
