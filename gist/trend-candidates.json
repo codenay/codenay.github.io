@@ -8,63 +8,63 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
+          "title": "chelsea vs tottenham",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-18T11:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "udinese vs lecce",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-18T11:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "ivory coast national football team",
+          "searchVolume": "1000+",
+          "startedAt": "2026-10-18T10:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "viktor gyökeres",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-18T10:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "nigeria national under-17 football team",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-18T10:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "sociedad vs barcelona",
+          "searchVolume": "1000+",
+          "startedAt": "2026-10-18T09:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "météo",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-18T07:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "mls",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-18T05:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "hassan ayariga",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-18T04:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "atlanta united vs inter miami",
-          "searchVolume": "2000+",
+          "searchVolume": "5000+",
           "startedAt": "2026-10-17T23:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "shatta fest 2026",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-17T21:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "accra",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-17T20:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "roma",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-17T19:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "real betis vs fc barcelona standings",
-          "searchVolume": "10000+",
-          "startedAt": "2026-10-17T18:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "bayern munich vs rb leipzig standings",
-          "searchVolume": "1000+",
-          "startedAt": "2026-10-17T18:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "real madrid vs espanyol",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-17T18:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "valencia vs athletic",
-          "searchVolume": "1000+",
-          "startedAt": "2026-10-17T18:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "barca vs betis",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-17T18:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "bayern",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-17T18:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-18T06:36:14Z"
+  "generatedAt": "2026-10-18T11:43:37Z"
 }
