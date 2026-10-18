@@ -9,13 +9,13 @@
       "items": [
         {
           "title": "atlanta united vs inter miami",
-          "searchVolume": "500+",
+          "searchVolume": "1000+",
           "startedAt": "2026-10-17T23:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "shatta fest 2026",
-          "searchVolume": "200+",
+          "searchVolume": "500+",
           "startedAt": "2026-10-17T21:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -62,9 +62,9 @@
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "roma vs genoa",
-          "searchVolume": "2000+",
-          "startedAt": "2026-10-17T18:00:00Z",
+          "title": "barca vs betis",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-17T18:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-17T23:26:00Z"
+  "generatedAt": "2026-10-18T01:32:32Z"
 }
