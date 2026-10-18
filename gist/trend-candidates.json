@@ -8,63 +8,63 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "nottingham forest vs arsenal f.c. standings",
-          "searchVolume": "1000+",
-          "startedAt": "2026-10-18T17:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "monaco fc",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-18T16:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "samartex vs medeama",
+          "title": "la liga",
           "searchVolume": "200+",
-          "startedAt": "2026-10-18T16:40:00Z",
+          "startedAt": "2026-10-18T20:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "málaga vs real sociedad",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-18T16:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "arsenal vs",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-18T16:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "ilhan omar",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-18T16:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "vision fc vs hearts of oak",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-18T15:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "milan vs atalanta",
-          "searchVolume": "1000+",
-          "startedAt": "2026-10-18T15:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "brighton & hove albion f.c. vs crystal palace f.c. standings",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-18T15:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "man u match today",
+          "title": "military base",
           "searchVolume": "100+",
-          "startedAt": "2026-10-18T15:10:00Z",
+          "startedAt": "2026-10-18T19:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "madrid match",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-18T19:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "real madrid fc",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-18T19:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "real madrid",
+          "searchVolume": "2000+",
+          "startedAt": "2026-10-18T19:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "real madrid match today",
+          "searchVolume": "2000+",
+          "startedAt": "2026-10-18T19:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "juventus",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-18T19:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "ol vs nice",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-18T19:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "madrid vs",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-18T19:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "málaga cf vs real sociedad standings",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-18T19:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-18T18:04:52Z"
+  "generatedAt": "2026-10-18T20:41:14Z"
 }
