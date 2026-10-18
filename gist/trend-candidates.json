@@ -9,7 +9,7 @@
       "items": [
         {
           "title": "atlanta united vs inter miami",
-          "searchVolume": "1000+",
+          "searchVolume": "2000+",
           "startedAt": "2026-10-17T23:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -50,12 +50,6 @@
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "laliga games",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-17T18:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
           "title": "valencia vs athletic",
           "searchVolume": "1000+",
           "startedAt": "2026-10-17T18:30:00Z",
@@ -65,6 +59,12 @@
           "title": "barca vs betis",
           "searchVolume": "100+",
           "startedAt": "2026-10-17T18:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "bayern",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-17T18:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-18T01:32:32Z"
+  "generatedAt": "2026-10-18T06:36:14Z"
 }
