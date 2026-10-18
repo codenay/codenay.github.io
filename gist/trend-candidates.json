@@ -8,38 +8,26 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "la liga",
+          "title": "power outage",
           "searchVolume": "200+",
-          "startedAt": "2026-10-18T20:10:00Z",
+          "startedAt": "2026-10-18T22:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "yan diomandé",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-18T21:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "military base",
-          "searchVolume": "100+",
+          "searchVolume": "200+",
           "startedAt": "2026-10-18T19:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "madrid match",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-18T19:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "real madrid fc",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-18T19:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
           "title": "real madrid",
-          "searchVolume": "2000+",
-          "startedAt": "2026-10-18T19:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "real madrid match today",
-          "searchVolume": "2000+",
+          "searchVolume": "5000+",
           "startedAt": "2026-10-18T19:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -56,15 +44,27 @@
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "madrid vs",
-          "searchVolume": "500+",
+          "title": "málaga cf vs real sociedad standings",
+          "searchVolume": "200+",
           "startedAt": "2026-10-18T19:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "málaga cf vs real sociedad standings",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-18T19:20:00Z",
+          "title": "sheffield united manager praise ayew",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-18T19:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "juventus vs lazio",
+          "searchVolume": "1000+",
+          "startedAt": "2026-10-18T18:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "tesla flying cars",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-18T18:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-18T20:41:14Z"
+  "generatedAt": "2026-10-18T22:36:44Z"
 }
