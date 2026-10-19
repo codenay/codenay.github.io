@@ -8,63 +8,63 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "monza vs cagliari",
+          "title": "travel warning",
           "searchVolume": "100+",
-          "startedAt": "2026-10-19T17:20:00Z",
+          "startedAt": "2026-10-19T21:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "al-fayha vs al-ahli",
+          "title": "kim jong un",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-19T20:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "parma vs torino",
           "searchVolume": "100+",
-          "startedAt": "2026-10-19T16:40:00Z",
+          "startedAt": "2026-10-19T20:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "paris saint-germain f.c.",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-19T15:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "antoine semenyo",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-19T15:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "medeama sc",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-19T15:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "zimbabwe",
+          "title": "al hilal",
           "searchVolume": "100+",
-          "startedAt": "2026-10-19T14:10:00Z",
+          "startedAt": "2026-10-19T19:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "fifa u-17 women's world cup",
+          "title": "gianni infantino",
           "searchVolume": "200+",
-          "startedAt": "2026-10-19T14:00:00Z",
+          "startedAt": "2026-10-19T18:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "south africa",
+          "title": "ibrahim sannie daara",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-19T18:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "getafe vs rayo",
+          "searchVolume": "2000+",
+          "startedAt": "2026-10-19T18:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "spurs vs coventry",
+          "searchVolume": "10000+",
+          "startedAt": "2026-10-19T18:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "university teachers association of ghana",
           "searchVolume": "200+",
-          "startedAt": "2026-10-19T13:20:00Z",
+          "startedAt": "2026-10-19T18:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "arsenal f.c.",
+          "title": "al-hilal vs al-hazem",
           "searchVolume": "500+",
-          "startedAt": "2026-10-19T13:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "flydubai",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-19T12:30:00Z",
+          "startedAt": "2026-10-19T18:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-19T17:31:19Z"
+  "generatedAt": "2026-10-19T21:44:46Z"
 }
