@@ -8,14 +8,50 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "gmb 2026 winner",
+          "title": "william agyapong",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-19T09:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "aew wrestledream 2026",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-19T09:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "film",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-19T07:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "mohammed kudus",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-19T06:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "alliance of sahel states",
+          "searchVolume": "1000+",
+          "startedAt": "2026-10-19T05:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "who won gmb 2026",
+          "searchVolume": "2000+",
+          "startedAt": "2026-10-19T01:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "asante kotoko",
           "searchVolume": "500+",
-          "startedAt": "2026-10-19T01:40:00Z",
+          "startedAt": "2026-10-18T22:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "power outage",
-          "searchVolume": "500+",
+          "searchVolume": "5000+",
           "startedAt": "2026-10-18T22:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -30,42 +66,6 @@
           "searchVolume": "100+",
           "startedAt": "2026-10-18T20:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "military base",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-18T19:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "madrid vs sevilla",
-          "searchVolume": "5000+",
-          "startedAt": "2026-10-18T19:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "real madrid fc",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-18T19:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "juventus",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-18T19:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "ol vs nice",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-18T19:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "málaga cf vs real sociedad standings",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-18T19:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
     },
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-19T05:20:28Z"
+  "generatedAt": "2026-10-19T11:16:27Z"
 }
