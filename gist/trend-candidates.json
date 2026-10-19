@@ -9,7 +9,7 @@
       "items": [
         {
           "title": "power outage",
-          "searchVolume": "200+",
+          "searchVolume": "500+",
           "startedAt": "2026-10-18T22:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -20,9 +20,21 @@
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
+          "title": "real madrid vs sevilla fc standings",
+          "searchVolume": "10000+",
+          "startedAt": "2026-10-18T20:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "military base",
           "searchVolume": "200+",
           "startedAt": "2026-10-18T19:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "real madrid fc",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-18T19:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
@@ -54,18 +66,6 @@
           "searchVolume": "500+",
           "startedAt": "2026-10-18T19:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "juventus vs lazio",
-          "searchVolume": "1000+",
-          "startedAt": "2026-10-18T18:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "tesla flying cars",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-18T18:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
     },
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-18T22:36:44Z"
+  "generatedAt": "2026-10-19T00:30:38Z"
 }
