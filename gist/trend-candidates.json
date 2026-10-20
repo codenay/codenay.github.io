@@ -8,20 +8,56 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "jay-z",
+          "title": "ballon d'or",
           "searchVolume": "200+",
+          "startedAt": "2026-10-20T15:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "elon musk",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-20T14:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "erik ten hag",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-20T13:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "issa diop",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-20T11:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "federico valverde",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-20T11:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "antoine semenyo injury",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-20T10:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "jay-z",
+          "searchVolume": "500+",
           "startedAt": "2026-10-20T08:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "artificial intelligence",
-          "searchVolume": "200+",
+          "searchVolume": "1000+",
           "startedAt": "2026-10-20T08:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "ilhan omar",
-          "searchVolume": "100+",
+          "searchVolume": "500+",
           "startedAt": "2026-10-20T08:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -29,42 +65,6 @@
           "title": "flight",
           "searchVolume": "100+",
           "startedAt": "2026-10-20T07:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "mining",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-20T07:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "ukraine",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-20T06:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "christiane amanpour",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-20T06:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "power outage accra",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-20T04:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "marc guéhi",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-20T02:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "joan laporta",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-19T21:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-20T10:25:36Z"
+  "generatedAt": "2026-10-20T15:22:40Z"
 }
