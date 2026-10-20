@@ -14,6 +14,12 @@
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
+          "title": "al hilal sfc vs al-hazem f.c. standings",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-19T21:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "travel warning",
           "searchVolume": "200+",
           "startedAt": "2026-10-19T21:00:00Z",
@@ -60,12 +66,6 @@
           "searchVolume": "10000+",
           "startedAt": "2026-10-19T18:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "university teachers association of ghana",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-19T18:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
     },
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-20T00:41:41Z"
+  "generatedAt": "2026-10-20T05:19:54Z"
 }
