@@ -8,63 +8,63 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "ballon d'or",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-20T15:10:00Z",
+          "title": "barcelona match today",
+          "searchVolume": "5000+",
+          "startedAt": "2026-10-20T19:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "elon musk",
+          "title": "live score",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-20T19:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "flash score",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-20T19:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "napoli vs bodø/glimt",
           "searchVolume": "100+",
-          "startedAt": "2026-10-20T14:00:00Z",
+          "startedAt": "2026-10-20T19:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "erik ten hag",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-20T13:00:00Z",
+          "title": "sports",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-20T19:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "issa diop",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-20T11:40:00Z",
+          "title": "live",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-20T19:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "federico valverde",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-20T11:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "antoine semenyo injury",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-20T10:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "jay-z",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-20T08:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "artificial intelligence",
+          "title": "psg",
           "searchVolume": "1000+",
-          "startedAt": "2026-10-20T08:30:00Z",
+          "startedAt": "2026-10-20T19:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "ilhan omar",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-20T08:30:00Z",
+          "title": "football live",
+          "searchVolume": "5000+",
+          "startedAt": "2026-10-20T19:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "flight",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-20T07:50:00Z",
+          "title": "808",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-20T19:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "pistons vs celtics",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-20T19:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-20T15:22:40Z"
+  "generatedAt": "2026-10-20T19:35:30Z"
 }
