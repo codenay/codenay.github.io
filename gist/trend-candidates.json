@@ -8,14 +8,20 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "travel warning",
+          "title": "joan laporta",
           "searchVolume": "100+",
+          "startedAt": "2026-10-19T21:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "travel warning",
+          "searchVolume": "200+",
           "startedAt": "2026-10-19T21:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "kim jong un",
-          "searchVolume": "200+",
+          "searchVolume": "500+",
           "startedAt": "2026-10-19T20:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -33,7 +39,7 @@
         },
         {
           "title": "gianni infantino",
-          "searchVolume": "200+",
+          "searchVolume": "500+",
           "startedAt": "2026-10-19T18:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -57,12 +63,6 @@
         },
         {
           "title": "university teachers association of ghana",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-19T18:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "al-hilal vs al-hazem",
           "searchVolume": "500+",
           "startedAt": "2026-10-19T18:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-19T21:44:46Z"
+  "generatedAt": "2026-10-20T00:41:41Z"
 }
