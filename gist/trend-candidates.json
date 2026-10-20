@@ -8,63 +8,63 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
+          "title": "jay-z",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-20T08:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "artificial intelligence",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-20T08:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "ilhan omar",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-20T08:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "flight",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-20T07:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "mining",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-20T07:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "ukraine",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-20T06:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "christiane amanpour",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-20T06:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "power outage accra",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-20T04:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "marc guéhi",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-20T02:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "joan laporta",
-          "searchVolume": "100+",
+          "searchVolume": "200+",
           "startedAt": "2026-10-19T21:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "al hilal sfc vs al-hazem f.c. standings",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-19T21:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "travel warning",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-19T21:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "kim jong un",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-19T20:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "parma vs torino",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-19T20:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "al hilal",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-19T19:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "gianni infantino",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-19T18:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "ibrahim sannie daara",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-19T18:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "getafe vs rayo",
-          "searchVolume": "2000+",
-          "startedAt": "2026-10-19T18:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "spurs vs coventry",
-          "searchVolume": "10000+",
-          "startedAt": "2026-10-19T18:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-20T05:19:54Z"
+  "generatedAt": "2026-10-20T10:25:36Z"
 }
