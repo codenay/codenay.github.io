@@ -8,14 +8,56 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "madrid vs leipzig",
+          "title": "yan diomandé",
           "searchVolume": "200+",
+          "startedAt": "2026-10-21T21:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "harry kane",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-21T21:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "sporting",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-21T21:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "ampem darkoa ladies f.c.",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-21T20:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "club brugge vs lens",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-21T20:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "champions league matches today",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-21T20:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "real madrid vs rb leipzig standings",
+          "searchVolume": "10000+",
+          "startedAt": "2026-10-21T20:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "madrid vs leipzig",
+          "searchVolume": "500+",
           "startedAt": "2026-10-21T20:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "live score",
-          "searchVolume": "200+",
+          "searchVolume": "500+",
           "startedAt": "2026-10-21T20:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -23,48 +65,6 @@
           "title": "bayern",
           "searchVolume": "200+",
           "startedAt": "2026-10-21T20:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "flash score",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-21T19:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "real madrid",
-          "searchVolume": "2000+",
-          "startedAt": "2026-10-21T19:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "champions league games",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-21T19:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "madrid match",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-21T19:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "real madrid match today",
-          "searchVolume": "2000+",
-          "startedAt": "2026-10-21T19:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "sporting vs lask",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-21T19:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "film",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-21T19:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-21T20:37:39Z"
+  "generatedAt": "2026-10-21T23:38:29Z"
 }
