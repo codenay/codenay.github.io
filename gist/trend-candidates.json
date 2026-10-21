@@ -8,27 +8,39 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "knicks vs 76ers",
+          "title": "instagram",
           "searchVolume": "100+",
+          "startedAt": "2026-10-21T03:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "knicks vs 76ers",
+          "searchVolume": "200+",
           "startedAt": "2026-10-20T23:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "beauty pageant",
-          "searchVolume": "200+",
+          "searchVolume": "500+",
           "startedAt": "2026-10-20T21:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "lamine yamal",
+          "title": "as roma vs slovan bratislava standings",
           "searchVolume": "500+",
           "startedAt": "2026-10-20T21:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "nba",
-          "searchVolume": "200+",
+          "searchVolume": "500+",
           "startedAt": "2026-10-20T20:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "champions league table",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-20T20:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
@@ -38,33 +50,21 @@
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "matches today",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-20T20:40:00Z",
+          "title": "champions league standings",
+          "searchVolume": "1000+",
+          "startedAt": "2026-10-20T20:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "champions league standings",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-20T20:30:00Z",
+          "title": "al-nassr vs neom sc standings",
+          "searchVolume": "5000+",
+          "startedAt": "2026-10-20T20:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "xavi espart",
           "searchVolume": "200+",
           "startedAt": "2026-10-20T20:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "porto vs psv",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-20T20:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "psg vs fc barcelona standings",
-          "searchVolume": "20000+",
-          "startedAt": "2026-10-20T20:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-21T00:58:23Z"
+  "generatedAt": "2026-10-21T06:01:18Z"
 }
