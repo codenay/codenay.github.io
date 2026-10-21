@@ -8,63 +8,63 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "thunderstorm warning",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-21T11:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "fine",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-21T09:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "prison",
+          "title": "man utd",
           "searchVolume": "1000+",
-          "startedAt": "2026-10-21T05:50:00Z",
+          "startedAt": "2026-10-21T17:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "spurs vs thunder",
+          "title": "losc vs galatasaray",
+          "searchVolume": "1000+",
+          "startedAt": "2026-10-21T16:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "como vs man utd",
+          "searchVolume": "10000+",
+          "startedAt": "2026-10-21T15:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "iphone",
           "searchVolume": "200+",
-          "startedAt": "2026-10-21T05:00:00Z",
+          "startedAt": "2026-10-21T15:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "instagram",
+          "title": "helen haines",
           "searchVolume": "100+",
-          "startedAt": "2026-10-21T03:50:00Z",
+          "startedAt": "2026-10-21T15:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "ebola",
+          "title": "khvicha kvaratskhelia",
           "searchVolume": "200+",
-          "startedAt": "2026-10-21T03:20:00Z",
+          "startedAt": "2026-10-21T15:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "knicks vs 76ers",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-20T23:50:00Z",
+          "title": "tea",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-21T15:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "beauty pageant",
+          "title": "visa fraud",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-21T15:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "electricity theft",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-21T14:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "ghana petroleum hub expansion agreement",
           "searchVolume": "1000+",
-          "startedAt": "2026-10-20T21:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "nba",
-          "searchVolume": "1000+",
-          "startedAt": "2026-10-20T20:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "champions league table",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-20T20:40:00Z",
+          "startedAt": "2026-10-21T13:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-21T11:47:06Z"
+  "generatedAt": "2026-10-21T17:11:01Z"
 }
