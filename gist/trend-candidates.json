@@ -8,14 +8,38 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
+          "title": "knicks vs 76ers",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-20T23:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "beauty pageant",
           "searchVolume": "200+",
           "startedAt": "2026-10-20T21:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
+          "title": "lamine yamal",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-20T21:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "nba",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-20T20:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "porto",
           "searchVolume": "200+",
+          "startedAt": "2026-10-20T20:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "matches today",
+          "searchVolume": "100+",
           "startedAt": "2026-10-20T20:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -39,32 +63,8 @@
         },
         {
           "title": "psg vs fc barcelona standings",
-          "searchVolume": "50000+",
+          "searchVolume": "20000+",
           "startedAt": "2026-10-20T20:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "live football tv",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-20T20:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "barca vs",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-20T19:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "sabah fk vs borussia dortmund standings",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-20T19:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "flashscore",
-          "searchVolume": "10000+",
-          "startedAt": "2026-10-20T19:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-20T22:40:20Z"
+  "generatedAt": "2026-10-21T00:58:23Z"
 }
