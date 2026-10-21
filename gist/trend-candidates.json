@@ -8,32 +8,56 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
+          "title": "thunderstorm warning",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-21T11:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "fine",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-21T09:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "prison",
+          "searchVolume": "1000+",
+          "startedAt": "2026-10-21T05:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "spurs vs thunder",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-21T05:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "instagram",
           "searchVolume": "100+",
           "startedAt": "2026-10-21T03:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "knicks vs 76ers",
+          "title": "ebola",
           "searchVolume": "200+",
+          "startedAt": "2026-10-21T03:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "knicks vs 76ers",
+          "searchVolume": "500+",
           "startedAt": "2026-10-20T23:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "beauty pageant",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-20T21:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "as roma vs slovan bratislava standings",
-          "searchVolume": "500+",
+          "searchVolume": "1000+",
           "startedAt": "2026-10-20T21:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "nba",
-          "searchVolume": "500+",
+          "searchVolume": "1000+",
           "startedAt": "2026-10-20T20:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -41,30 +65,6 @@
           "title": "champions league table",
           "searchVolume": "500+",
           "startedAt": "2026-10-20T20:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "porto",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-20T20:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "champions league standings",
-          "searchVolume": "1000+",
-          "startedAt": "2026-10-20T20:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "al-nassr vs neom sc standings",
-          "searchVolume": "5000+",
-          "startedAt": "2026-10-20T20:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "xavi espart",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-20T20:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-21T06:01:18Z"
+  "generatedAt": "2026-10-21T11:47:06Z"
 }
