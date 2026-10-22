@@ -8,6 +8,42 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
+          "title": "kwame dzokoto",
+          "searchVolume": "2000+",
+          "startedAt": "2026-10-22T11:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "chief executive officer",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-22T11:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "anthony joshua",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-22T11:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "bukayo saka",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-22T11:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "manasseh azure awuni",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-22T10:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "jessica appiah fifa u17 mvp",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-22T09:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "lakers vs warriors",
           "searchVolume": "500+",
           "startedAt": "2026-10-22T03:50:00Z",
@@ -15,7 +51,7 @@
         },
         {
           "title": "seven fishermen stranded at sea",
-          "searchVolume": "100+",
+          "searchVolume": "200+",
           "startedAt": "2026-10-22T03:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -27,44 +63,8 @@
         },
         {
           "title": "harry kane",
-          "searchVolume": "100+",
+          "searchVolume": "1000+",
           "startedAt": "2026-10-21T21:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "kylian mbappé",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-21T21:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "sporting",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-21T21:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "ampem darkoa ladies f.c.",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-21T20:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "rma",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-21T20:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "sporting cp",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-21T20:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "levante ud vs athletic bilbao standings",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-21T20:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-22T07:33:58Z"
+  "generatedAt": "2026-10-22T13:12:11Z"
 }
