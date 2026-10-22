@@ -8,9 +8,33 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
+          "title": "lakers vs warriors",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-22T03:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "seven fishermen stranded at sea",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-22T03:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "yan diomandé",
           "searchVolume": "200+",
           "startedAt": "2026-10-21T21:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "harry kane",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-21T21:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "kylian mbappé",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-21T21:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
@@ -26,45 +50,21 @@
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "club brugge vs lens",
+          "title": "rma",
           "searchVolume": "100+",
+          "startedAt": "2026-10-21T20:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "sporting cp",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-21T20:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "levante ud vs athletic bilbao standings",
+          "searchVolume": "200+",
           "startedAt": "2026-10-21T20:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "real madrid vs rb leipzig standings",
-          "searchVolume": "10000+",
-          "startedAt": "2026-10-21T20:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "madrid vs leipzig",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-21T20:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "live score",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-21T20:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "bayern",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-21T20:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "football live",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-21T19:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "flash score",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-21T19:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-22T01:52:08Z"
+  "generatedAt": "2026-10-22T07:33:58Z"
 }
