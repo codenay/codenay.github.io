@@ -8,63 +8,63 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "alavés vs málaga",
+          "title": "météo demain",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-23T21:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "bucks vs bulls",
           "searchVolume": "200+",
+          "startedAt": "2026-10-23T20:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "uganda airlines",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-23T20:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "vfb stuttgart vs mönchengladbach",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-23T20:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "manchester city",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-23T19:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "alavés vs málaga",
+          "searchVolume": "500+",
           "startedAt": "2026-10-23T19:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "hearts of oak",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-23T18:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "ghana premier league",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-23T18:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
           "title": "antonio conte",
-          "searchVolume": "100+",
+          "searchVolume": "500+",
           "startedAt": "2026-10-23T18:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "ipswich town vs nottm forest",
-          "searchVolume": "1000+",
+          "searchVolume": "5000+",
           "startedAt": "2026-10-23T18:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "vincent kompany",
-          "searchVolume": "500+",
+          "searchVolume": "1000+",
           "startedAt": "2026-10-23T18:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "al qadsiah vs al-hilal",
-          "searchVolume": "500+",
+          "searchVolume": "1000+",
           "startedAt": "2026-10-23T18:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "hearts of oak vs basake holy stars",
-          "searchVolume": "2000+",
-          "startedAt": "2026-10-23T16:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "newcastle united f.c.",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-23T16:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "formula 1",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-23T15:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-23T19:12:15Z"
+  "generatedAt": "2026-10-23T22:09:49Z"
 }
