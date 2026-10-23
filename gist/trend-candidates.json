@@ -8,6 +8,24 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
+          "title": "php vulnerability",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-23T06:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "thunder vs nuggets",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-23T06:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "accra",
+          "searchVolume": "1000+",
+          "startedAt": "2026-10-23T05:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "fb",
           "searchVolume": "100+",
           "startedAt": "2026-10-23T03:40:00Z",
@@ -15,19 +33,19 @@
         },
         {
           "title": "francis duru",
-          "searchVolume": "200+",
+          "searchVolume": "2000+",
           "startedAt": "2026-10-23T02:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "76ers vs cavaliers",
-          "searchVolume": "200+",
+          "searchVolume": "500+",
           "startedAt": "2026-10-23T00:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "oppo find x10 pro max",
-          "searchVolume": "100+",
+          "searchVolume": "200+",
           "startedAt": "2026-10-23T00:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -48,24 +66,6 @@
           "searchVolume": "100+",
           "startedAt": "2026-10-22T20:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "uganda airlines",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-22T20:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "celtic vs celta",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-22T20:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "juventus vs stade rennais f.c. standings",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-22T19:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
     },
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-23T04:47:17Z"
+  "generatedAt": "2026-10-23T10:02:44Z"
 }
