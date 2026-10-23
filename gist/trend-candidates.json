@@ -8,9 +8,39 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "php vulnerability",
+          "title": "al nassr",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-23T14:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "cole palmer",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-23T13:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "php vulnerabilities",
           "searchVolume": "100+",
-          "startedAt": "2026-10-23T06:50:00Z",
+          "startedAt": "2026-10-23T13:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "al-faisaly vs al-nassr",
+          "searchVolume": "2000+",
+          "startedAt": "2026-10-23T13:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "iphone",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-23T12:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "goldbod",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-23T09:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
@@ -33,38 +63,8 @@
         },
         {
           "title": "francis duru",
-          "searchVolume": "2000+",
+          "searchVolume": "10000+",
           "startedAt": "2026-10-23T02:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "76ers vs cavaliers",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-23T00:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "oppo find x10 pro max",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-23T00:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "monaco vs freiburg",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-22T20:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "lamine yamal",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-22T20:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "el clásico",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-22T20:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-23T10:02:44Z"
+  "generatedAt": "2026-10-23T15:03:22Z"
 }
