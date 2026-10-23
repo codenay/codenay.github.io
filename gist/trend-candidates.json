@@ -8,6 +8,30 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
+          "title": "fb",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-23T03:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "francis duru",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-23T02:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "76ers vs cavaliers",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-23T00:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "oppo find x10 pro max",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-23T00:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "monaco vs freiburg",
           "searchVolume": "200+",
           "startedAt": "2026-10-22T20:20:00Z",
@@ -42,30 +66,6 @@
           "searchVolume": "200+",
           "startedAt": "2026-10-22T19:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "ghana premier league",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-22T19:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "ajax vs atalanta",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-22T19:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "fk jablonec vs brighton & hove albion f.c. standings",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-22T19:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "juventus",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-22T18:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
     },
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-22T21:34:26Z"
+  "generatedAt": "2026-10-23T04:47:17Z"
 }
