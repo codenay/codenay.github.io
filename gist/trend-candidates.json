@@ -8,6 +8,42 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
+          "title": "asante kotoko s.c.",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-24T08:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "avengers doomsday",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-24T06:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "gold fields",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-24T06:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "lakers vs clippers",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-24T06:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "warriors vs grizzlies",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-24T05:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "suspect",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-24T05:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "météo demain",
           "searchVolume": "100+",
           "startedAt": "2026-10-23T21:00:00Z",
@@ -27,44 +63,8 @@
         },
         {
           "title": "uganda airlines",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-23T20:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "vfb stuttgart vs mönchengladbach",
           "searchVolume": "200+",
           "startedAt": "2026-10-23T20:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "manchester city",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-23T19:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "alavés vs málaga",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-23T19:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "antonio conte",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-23T18:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "ipswich town vs nottm forest",
-          "searchVolume": "5000+",
-          "startedAt": "2026-10-23T18:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "vincent kompany",
-          "searchVolume": "2000+",
-          "startedAt": "2026-10-23T18:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-24T05:02:28Z"
+  "generatedAt": "2026-10-24T09:31:38Z"
 }
