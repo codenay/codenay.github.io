@@ -27,7 +27,7 @@
         },
         {
           "title": "uganda airlines",
-          "searchVolume": "200+",
+          "searchVolume": "100+",
           "startedAt": "2026-10-23T20:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -63,7 +63,7 @@
         },
         {
           "title": "vincent kompany",
-          "searchVolume": "1000+",
+          "searchVolume": "2000+",
           "startedAt": "2026-10-23T18:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-24T00:40:45Z"
+  "generatedAt": "2026-10-24T05:02:28Z"
 }
