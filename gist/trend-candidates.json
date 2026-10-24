@@ -8,63 +8,63 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "dortmund vs eintracht frankfurt",
+          "title": "ssc napoli vs as roma standings",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-24T18:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "real madrid vs barcelona",
           "searchVolume": "200+",
+          "startedAt": "2026-10-24T18:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "roma",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-24T18:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "barcelona vs granada",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-24T18:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "serie a",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-24T17:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "mike penders",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-24T17:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "chelsea f.c. vs tottenham lineups",
+          "searchVolume": "1000+",
+          "startedAt": "2026-10-24T16:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "dortmund vs eintracht frankfurt",
+          "searchVolume": "500+",
           "startedAt": "2026-10-24T16:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "chelsea vs tottenham",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-24T16:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
           "title": "valencia vs villarreal",
-          "searchVolume": "500+",
+          "searchVolume": "1000+",
           "startedAt": "2026-10-24T16:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "chelsea vs spurs",
-          "searchVolume": "10000+",
+          "searchVolume": "20000+",
           "startedAt": "2026-10-24T15:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "arsenal f.c.",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-24T15:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "lincoln city vs burnley",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-24T15:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "napoli vs roma",
-          "searchVolume": "1000+",
-          "startedAt": "2026-10-24T15:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "wolves vs watford",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-24T15:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "prakriti malla handwriting",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-24T15:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "alan shearer",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-24T14:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-24T16:59:13Z"
+  "generatedAt": "2026-10-24T19:28:54Z"
 }
