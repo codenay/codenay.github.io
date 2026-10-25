@@ -8,63 +8,63 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "rc celta de vigo vs real betis standings",
+          "title": "live match",
           "searchVolume": "200+",
-          "startedAt": "2026-10-25T17:30:00Z",
+          "startedAt": "2026-10-25T20:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "real sociedad vs levante",
+          "title": "live football tv",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-25T20:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "real sociedad vs levante ud standings",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-25T20:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "flashscore",
+          "searchVolume": "5000+",
+          "startedAt": "2026-10-25T20:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "barcelona vs",
           "searchVolume": "200+",
-          "startedAt": "2026-10-25T17:30:00Z",
+          "startedAt": "2026-10-25T20:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "ghana premier league table",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-25T17:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "lecce vs juventus",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-25T17:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "ghana premier league games",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-25T17:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "medeama vs aduana football club",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-25T16:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "crystal palace f.c. vs newcastle united f.c. standings",
+          "title": "barca",
           "searchVolume": "500+",
-          "startedAt": "2026-10-25T16:30:00Z",
+          "startedAt": "2026-10-25T20:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "hoffenheim vs leverkusen",
+          "title": "real madrid",
+          "searchVolume": "5000+",
+          "startedAt": "2026-10-25T20:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "madrid vs barca",
           "searchVolume": "200+",
-          "startedAt": "2026-10-25T16:10:00Z",
+          "startedAt": "2026-10-25T20:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "freiburg vs bayern",
-          "searchVolume": "2000+",
-          "startedAt": "2026-10-25T15:50:00Z",
+          "title": "dstv",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-25T20:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "sunderland vs leeds",
+          "title": "volta region",
           "searchVolume": "1000+",
-          "startedAt": "2026-10-25T15:50:00Z",
+          "startedAt": "2026-10-25T20:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-25T17:52:09Z"
+  "generatedAt": "2026-10-25T20:49:32Z"
 }
