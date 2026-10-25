@@ -8,8 +8,38 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "who won the ballon d'or 2026",
+          "title": "eberechi eze",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-25T09:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "garnacho",
           "searchVolume": "200+",
+          "startedAt": "2026-10-25T09:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "visa fraud",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-25T07:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "suns vs warriors",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-25T06:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "76ers vs bucks",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-25T02:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "who won the ballon d'or 2026",
+          "searchVolume": "100+",
           "startedAt": "2026-10-25T00:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -26,12 +56,6 @@
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "porto fc",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-24T21:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
           "title": "gil vicente vs porto",
           "searchVolume": "200+",
           "startedAt": "2026-10-24T21:10:00Z",
@@ -39,32 +63,8 @@
         },
         {
           "title": "rbny vs inter miami",
-          "searchVolume": "2000+",
+          "searchVolume": "5000+",
           "startedAt": "2026-10-24T20:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "lazio vs parma",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-24T19:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "lewis hamilton",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-24T19:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "valencia cf vs villarreal cf standings",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-24T19:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "mohammed kudus",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-24T19:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-25T05:19:29Z"
+  "generatedAt": "2026-10-25T10:09:03Z"
 }
