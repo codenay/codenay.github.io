@@ -14,14 +14,26 @@
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "inter miami",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-24T23:50:00Z",
+          "title": "porto",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-24T21:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "atlético madrid vs deportivo de la coruna standings",
+          "searchVolume": "2000+",
+          "startedAt": "2026-10-24T21:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "porto fc",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-24T21:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "gil vicente vs porto",
-          "searchVolume": "500+",
+          "searchVolume": "200+",
           "startedAt": "2026-10-24T21:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -29,12 +41,6 @@
           "title": "rbny vs inter miami",
           "searchVolume": "2000+",
           "startedAt": "2026-10-24T20:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "atletico madrid",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-24T20:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
@@ -60,12 +66,6 @@
           "searchVolume": "200+",
           "startedAt": "2026-10-24T19:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "atlético vs deportivo",
-          "searchVolume": "2000+",
-          "startedAt": "2026-10-24T18:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
     },
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-25T00:20:02Z"
+  "generatedAt": "2026-10-25T05:19:29Z"
 }
