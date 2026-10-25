@@ -8,26 +8,26 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "porto",
+          "title": "who won the ballon d'or 2026",
           "searchVolume": "200+",
-          "startedAt": "2026-10-24T21:30:00Z",
+          "startedAt": "2026-10-25T00:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "porto fc",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-24T21:20:00Z",
+          "title": "inter miami",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-24T23:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "gil vicente vs porto",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-24T21:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "rbny vs inter miami",
-          "searchVolume": "1000+",
-          "startedAt": "2026-10-24T20:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "lazio",
-          "searchVolume": "200+",
+          "searchVolume": "2000+",
           "startedAt": "2026-10-24T20:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -50,21 +50,21 @@
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
+          "title": "valencia cf vs villarreal cf standings",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-24T19:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "mohammed kudus",
           "searchVolume": "200+",
           "startedAt": "2026-10-24T19:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "ssc napoli vs as roma standings",
-          "searchVolume": "500+",
+          "title": "atlético vs deportivo",
+          "searchVolume": "2000+",
           "startedAt": "2026-10-24T18:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "real madrid vs barcelona",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-24T18:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-24T21:53:42Z"
+  "generatedAt": "2026-10-25T00:20:02Z"
 }
