@@ -8,9 +8,9 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "lamine yamal",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-25T22:30:00Z",
+          "title": "brazil elections 2026",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-26T00:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
@@ -20,15 +20,27 @@
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
+          "title": "when is the ballon d'or ceremony 2026",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-25T22:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "la liga standings",
           "searchVolume": "200+",
           "startedAt": "2026-10-25T22:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "when is the ballon d'or ceremony 2026",
+          "title": "fotmob",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-25T22:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "live score today match",
           "searchVolume": "100+",
-          "startedAt": "2026-10-25T22:20:00Z",
+          "startedAt": "2026-10-25T22:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
@@ -39,19 +51,13 @@
         },
         {
           "title": "jazz vs lakers",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-25T21:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "sofascore",
           "searchVolume": "500+",
           "startedAt": "2026-10-25T21:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "sporting cp",
-          "searchVolume": "200+",
+          "searchVolume": "500+",
           "startedAt": "2026-10-25T21:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -59,12 +65,6 @@
           "title": "todays match",
           "searchVolume": "100+",
           "startedAt": "2026-10-25T21:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "sporting vs académico de viseu",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-25T21:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-25T23:16:02Z"
+  "generatedAt": "2026-10-26T01:15:05Z"
 }
