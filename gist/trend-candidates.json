@@ -8,6 +8,18 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
+          "title": "fifa world cup",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-26T04:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "who won the ballon d'or 2026",
+          "searchVolume": "1000+",
+          "startedAt": "2026-10-26T02:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "brazil elections 2026",
           "searchVolume": "500+",
           "startedAt": "2026-10-26T00:50:00Z",
@@ -17,12 +29,6 @@
           "title": "jude bellingham",
           "searchVolume": "100+",
           "startedAt": "2026-10-25T22:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "when is the ballon d'or ceremony 2026",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-25T22:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
@@ -39,12 +45,6 @@
         },
         {
           "title": "live score today match",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-25T22:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "scores",
           "searchVolume": "100+",
           "startedAt": "2026-10-25T22:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-26T01:15:05Z"
+  "generatedAt": "2026-10-26T06:17:41Z"
 }
