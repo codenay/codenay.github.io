@@ -8,63 +8,63 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "fifa world cup",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-26T04:10:00Z",
+          "title": "government rejects treasury bill bids",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-26T13:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "who won the ballon d'or 2026",
+          "title": "gold",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-26T11:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "pedri",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-26T11:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "drug",
           "searchVolume": "1000+",
-          "startedAt": "2026-10-26T02:30:00Z",
+          "startedAt": "2026-10-26T10:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "ghana football association",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-26T10:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "mccarthy-mallam road rehabilitation works",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-26T08:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "76ers vs pistons",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-26T04:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "brazil elections 2026",
-          "searchVolume": "500+",
+          "searchVolume": "1000+",
           "startedAt": "2026-10-26T00:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "jude bellingham",
+          "title": "festival",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-25T22:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "sporting",
           "searchVolume": "100+",
           "startedAt": "2026-10-25T22:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "la liga standings",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-25T22:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "fotmob",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-25T22:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "live score today match",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-25T22:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "jazz vs lakers",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-25T21:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "sporting cp",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-25T21:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "todays match",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-25T21:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-26T06:17:41Z"
+  "generatedAt": "2026-10-26T13:35:10Z"
 }
