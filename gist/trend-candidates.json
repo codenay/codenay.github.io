@@ -8,12 +8,6 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "dazn ballon d or",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-26T22:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
           "title": "alexia putellas",
           "searchVolume": "1000+",
           "startedAt": "2026-10-26T22:00:00Z",
@@ -66,6 +60,12 @@
           "searchVolume": "200+",
           "startedAt": "2026-10-26T20:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "fabrizio romano",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-26T19:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
     },
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-26T23:21:47Z"
+  "generatedAt": "2026-10-27T02:26:00Z"
 }
