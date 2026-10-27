@@ -8,8 +8,32 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "alexia putellas",
+          "title": "multichoice",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-27T07:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "nuggets vs warriors",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-27T05:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "kylian mbappé",
           "searchVolume": "1000+",
+          "startedAt": "2026-10-27T05:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "serbia elections",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-27T00:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "alexia putellas",
+          "searchVolume": "2000+",
           "startedAt": "2026-10-26T22:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -21,7 +45,7 @@
         },
         {
           "title": "socrates award",
-          "searchVolume": "500+",
+          "searchVolume": "1000+",
           "startedAt": "2026-10-26T21:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -42,30 +66,6 @@
           "searchVolume": "200+",
           "startedAt": "2026-10-26T21:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "vicky lopez",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-26T21:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "psg vs lyon",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-26T21:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "serwaa amihere",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-26T20:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "fabrizio romano",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-26T19:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
     },
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-27T02:26:00Z"
+  "generatedAt": "2026-10-27T08:22:46Z"
 }
