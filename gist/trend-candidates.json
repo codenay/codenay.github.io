@@ -8,63 +8,63 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "torino vs como",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-27T19:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "roma vs cagliari",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-27T19:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "fleetwood vs arsenal",
-          "searchVolume": "5000+",
-          "startedAt": "2026-10-27T19:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "dortmund vs werder",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-27T19:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "al-shamal vs al-hilal",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-27T18:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "sassuolo vs lazio",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-27T17:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "bleach anime",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-27T16:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "essen vs rb leipzig",
-          "searchVolume": "2000+",
-          "startedAt": "2026-10-27T16:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "florian wirtz",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-27T16:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "goldbod",
+          "title": "apple",
           "searchVolume": "100+",
-          "startedAt": "2026-10-27T15:40:00Z",
+          "startedAt": "2026-10-27T23:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "torino fc vs como 1907 standings",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-27T22:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "as roma vs cagliari calcio standings",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-27T22:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "granit xhaka",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-27T22:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "sporting vs marítimo",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-27T21:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "como",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-27T21:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "federico valverde",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-27T21:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "israeli elections",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-27T21:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "romance scam",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-27T20:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "torino vs como",
+          "searchVolume": "1000+",
+          "startedAt": "2026-10-27T19:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-27T20:05:27Z"
+  "generatedAt": "2026-10-27T23:45:52Z"
 }
