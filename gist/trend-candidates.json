@@ -8,8 +8,20 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "apple",
+          "title": "gh",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-28T01:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "lamine yamal ballon dor",
           "searchVolume": "100+",
+          "startedAt": "2026-10-28T00:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "apple",
+          "searchVolume": "500+",
           "startedAt": "2026-10-27T23:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -21,7 +33,7 @@
         },
         {
           "title": "as roma vs cagliari calcio standings",
-          "searchVolume": "200+",
+          "searchVolume": "500+",
           "startedAt": "2026-10-27T22:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -51,20 +63,8 @@
         },
         {
           "title": "israeli elections",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-27T21:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "romance scam",
           "searchVolume": "500+",
-          "startedAt": "2026-10-27T20:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "torino vs como",
-          "searchVolume": "1000+",
-          "startedAt": "2026-10-27T19:50:00Z",
+          "startedAt": "2026-10-27T21:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-27T23:45:52Z"
+  "generatedAt": "2026-10-28T02:36:18Z"
 }
