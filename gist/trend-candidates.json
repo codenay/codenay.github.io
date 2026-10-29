@@ -8,63 +8,63 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "inter miami vs cincinnati",
+          "title": "lionel messi",
           "searchVolume": "500+",
+          "startedAt": "2026-10-29T05:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "nba",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-29T05:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "fifa world cup",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-29T04:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "israeli election results",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-29T04:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "inter miami vs fc cincinnati standings",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-29T03:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "timberwolves vs warriors",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-29T02:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "hello",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-29T01:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "inter miami vs cincinnati",
+          "searchVolume": "2000+",
           "startedAt": "2026-10-28T22:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
+          "title": "united arab emirates",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-28T22:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "sarkodie",
-          "searchVolume": "100+",
+          "searchVolume": "200+",
           "startedAt": "2026-10-28T22:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "ballon d'or of all time",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-28T22:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "juventus",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-28T21:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "chelsea f.c",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-28T21:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "arsenal vs benfica",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-28T21:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "ac milan vs bologna fc standings",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-28T20:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "monza vs napoli",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-28T20:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "genoa vs juventus",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-28T19:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "stuttgart fc",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-28T19:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-29T00:54:50Z"
+  "generatedAt": "2026-10-29T07:03:33Z"
 }
