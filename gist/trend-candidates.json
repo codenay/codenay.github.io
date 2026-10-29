@@ -8,8 +8,50 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "monza vs napoli",
+          "title": "inter miami vs cincinnati",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-28T22:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "sarkodie",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-28T22:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "ballon d'or of all time",
           "searchVolume": "200+",
+          "startedAt": "2026-10-28T22:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "juventus",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-28T21:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "chelsea f.c",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-28T21:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "arsenal vs benfica",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-28T21:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "ac milan vs bologna fc standings",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-28T20:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "monza vs napoli",
+          "searchVolume": "500+",
           "startedAt": "2026-10-28T20:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -24,48 +66,6 @@
           "searchVolume": "100+",
           "startedAt": "2026-10-28T19:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "sunderland vs brentford",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-28T19:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "fulham vs palace",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-28T19:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "inter milan",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-28T19:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "bayern vs magdeburg",
-          "searchVolume": "2000+",
-          "startedAt": "2026-10-28T19:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "bournemouth vs aston villa",
-          "searchVolume": "2000+",
-          "startedAt": "2026-10-28T19:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "man city vs brighton",
-          "searchVolume": "10000+",
-          "startedAt": "2026-10-28T18:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "toni kroos",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-28T18:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
     },
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-28T21:03:12Z"
+  "generatedAt": "2026-10-29T00:54:50Z"
 }
