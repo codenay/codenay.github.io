@@ -8,9 +8,39 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "hb køge women vs fc barcelona femení standings",
+          "title": "fifa u-17 world cup",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-30T09:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "trent alexander-arnold",
           "searchVolume": "2000+",
+          "startedAt": "2026-10-30T09:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "mikel arteta",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-30T08:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "binance hacked",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-30T07:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "hb køge women vs fc barcelona femení standings",
+          "searchVolume": "500+",
           "startedAt": "2026-10-29T22:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "benfica",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-29T22:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
@@ -36,36 +66,6 @@
           "searchVolume": "2000+",
           "startedAt": "2026-10-29T20:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "yvonne okwara",
-          "searchVolume": "1000+",
-          "startedAt": "2026-10-29T20:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "al-riyadh vs al qadsiah",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-29T20:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "rusal",
-          "searchVolume": "1000+",
-          "startedAt": "2026-10-29T19:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "ronaldo career goals",
-          "searchVolume": "10000+",
-          "startedAt": "2026-10-29T19:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "fiorentina vs atalanta",
-          "searchVolume": "1000+",
-          "startedAt": "2026-10-29T19:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
     },
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-30T02:58:23Z"
+  "generatedAt": "2026-10-30T09:58:58Z"
 }
