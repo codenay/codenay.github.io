@@ -8,63 +8,63 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
+          "title": "levante vs atlético",
+          "searchVolume": "1000+",
+          "startedAt": "2026-10-31T12:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "chelsea vs man utd",
+          "searchVolume": "20000+",
+          "startedAt": "2026-10-31T11:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "jamie carragher",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-31T09:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "jensen huang",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-31T07:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "halloween",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-31T07:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "power outage",
-          "searchVolume": "500+",
+          "searchVolume": "5000+",
           "startedAt": "2026-10-31T05:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
+          "title": "76ers vs knicks",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-31T04:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "avatar seven havens episode 10",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-31T03:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "warriors vs lakers",
-          "searchVolume": "200+",
+          "searchVolume": "500+",
           "startedAt": "2026-10-31T03:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "villarreal",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-30T22:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "losc vs lens",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-30T21:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "casa pia vs sporting",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-30T21:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "sheffield united vs wrexham",
+          "title": "irene atuguba",
           "searchVolume": "200+",
-          "startedAt": "2026-10-30T20:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "eddie howe",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-30T20:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "le havre ac vs psg standings",
-          "searchVolume": "2000+",
-          "startedAt": "2026-10-30T20:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "villarreal vs espanyol",
-          "searchVolume": "2000+",
-          "startedAt": "2026-10-30T19:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "andoni iraola",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-30T19:20:00Z",
+          "startedAt": "2026-10-31T03:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-31T06:21:04Z"
+  "generatedAt": "2026-10-31T13:05:14Z"
 }
