@@ -8,14 +8,32 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "sheffield united vs wrexham",
+          "title": "villarreal",
           "searchVolume": "100+",
+          "startedAt": "2026-10-30T22:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "losc vs lens",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-30T21:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "sporting cp",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-30T21:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "sheffield united vs wrexham",
+          "searchVolume": "200+",
           "startedAt": "2026-10-30T20:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "eddie howe",
-          "searchVolume": "100+",
+          "searchVolume": "500+",
           "startedAt": "2026-10-30T20:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -27,7 +45,13 @@
         },
         {
           "title": "villarreal vs espanyol",
-          "searchVolume": "1000+",
+          "searchVolume": "2000+",
+          "startedAt": "2026-10-30T19:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "andoni iraola",
+          "searchVolume": "200+",
           "startedAt": "2026-10-30T19:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -38,33 +62,9 @@
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "andoni iraola",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-30T19:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
           "title": "al-shabab vs al-ahli",
           "searchVolume": "200+",
           "startedAt": "2026-10-30T18:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "galatasaray",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-30T17:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "le havre vs psg",
-          "searchVolume": "10000+",
-          "startedAt": "2026-10-30T17:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "avatar seven havens",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-30T17:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-30T21:03:35Z"
+  "generatedAt": "2026-10-31T00:47:00Z"
 }
