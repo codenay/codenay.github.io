@@ -8,6 +8,18 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
+          "title": "power outage",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-31T05:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "warriors vs lakers",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-31T03:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "villarreal",
           "searchVolume": "100+",
           "startedAt": "2026-10-30T22:00:00Z",
@@ -20,7 +32,7 @@
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "sporting cp",
+          "title": "casa pia vs sporting",
           "searchVolume": "500+",
           "startedAt": "2026-10-30T21:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
@@ -54,18 +66,6 @@
           "searchVolume": "200+",
           "startedAt": "2026-10-30T19:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "nice vs rennes",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-30T19:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "al-shabab vs al-ahli",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-30T18:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
     },
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-31T00:47:00Z"
+  "generatedAt": "2026-10-31T06:21:04Z"
 }
