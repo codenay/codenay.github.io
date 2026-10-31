@@ -8,63 +8,63 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
+          "title": "hornets vs 76ers",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-31T23:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "porto vs estoril",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-31T22:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "fc barcelona vs deportivo alavés standings",
+          "searchVolume": "5000+",
+          "startedAt": "2026-10-31T22:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "raphinha",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-31T22:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "josé mourinho",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-31T21:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "barcelona match",
+          "searchVolume": "100+",
+          "startedAt": "2026-10-31T21:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "barcelona fc",
+          "searchVolume": "1000+",
+          "startedAt": "2026-10-31T20:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "barca",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-31T20:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "barcelona",
-          "searchVolume": "1000+",
-          "startedAt": "2026-10-31T20:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "beauty pageant",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-31T20:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "fcb",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-31T20:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "real betis vs málaga cf standings",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-31T20:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "mohammed kudus",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-31T20:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "bayern munich vs borussia dortmund standings",
           "searchVolume": "2000+",
-          "startedAt": "2026-10-31T19:50:00Z",
+          "startedAt": "2026-10-31T20:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "barcelona vs alavés",
-          "searchVolume": "20000+",
-          "startedAt": "2026-10-31T19:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "aston villa vs fulham",
-          "searchVolume": "1000+",
-          "startedAt": "2026-10-31T19:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "milan vs inter",
-          "searchVolume": "1000+",
-          "startedAt": "2026-10-31T19:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "fraud",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-31T19:00:00Z",
+          "title": "twitch",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-31T20:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-31T20:40:35Z"
+  "generatedAt": "2026-10-31T23:45:20Z"
 }
