@@ -8,63 +8,63 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "levante vs atlético",
+          "title": "coventry city fc vs sunderland a.f.c. standings",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-31T17:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "betis vs málaga",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-31T17:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "spurs vs palace",
           "searchVolume": "1000+",
-          "startedAt": "2026-10-31T12:10:00Z",
+          "startedAt": "2026-10-31T16:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "chelsea vs man utd",
-          "searchVolume": "20000+",
-          "startedAt": "2026-10-31T11:40:00Z",
+          "title": "bayern vs dortmund",
+          "searchVolume": "1000+",
+          "startedAt": "2026-10-31T16:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "jamie carragher",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-31T09:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "jensen huang",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-31T07:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "halloween",
-          "searchVolume": "200+",
-          "startedAt": "2026-10-31T07:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "power outage",
-          "searchVolume": "5000+",
-          "startedAt": "2026-10-31T05:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "76ers vs knicks",
-          "searchVolume": "100+",
-          "startedAt": "2026-10-31T04:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "avatar seven havens episode 10",
+          "title": "udinese vs roma",
           "searchVolume": "500+",
-          "startedAt": "2026-10-31T03:50:00Z",
+          "startedAt": "2026-10-31T16:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "warriors vs lakers",
-          "searchVolume": "500+",
-          "startedAt": "2026-10-31T03:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "irene atuguba",
+          "title": "rayo vs celta",
           "searchVolume": "200+",
-          "startedAt": "2026-10-31T03:20:00Z",
+          "startedAt": "2026-10-31T16:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "binance crypto hack",
+          "searchVolume": "1000+",
+          "startedAt": "2026-10-31T16:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "hull vs ipswich town",
+          "searchVolume": "500+",
+          "startedAt": "2026-10-31T15:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "viral videos",
+          "searchVolume": "200+",
+          "startedAt": "2026-10-31T15:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "levante ud vs atlético madrid standings",
+          "searchVolume": "1000+",
+          "startedAt": "2026-10-31T15:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-10-31T13:05:14Z"
+  "generatedAt": "2026-10-31T17:42:38Z"
 }
