@@ -8,63 +8,63 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "hearts of oak",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-01T16:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "real madrid",
-          "searchVolume": "2000+",
-          "startedAt": "2026-11-01T16:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "real madrid vs",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-01T15:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "lazio fc",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-01T15:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "lazio",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-01T15:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "celtic",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-01T15:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "asante kotoko vs medeama",
+          "title": "accra",
           "searchVolume": "1000+",
-          "startedAt": "2026-11-01T15:00:00Z",
+          "startedAt": "2026-11-01T20:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "charlton vs chelsea",
+          "title": "marseille vs toulouse",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-01T20:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "fifa u-17 women's world cup",
           "searchVolume": "1000+",
-          "startedAt": "2026-11-01T14:40:00Z",
+          "startedAt": "2026-11-01T19:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "trent alexander-arnold",
+          "title": "athletic vs real sociedad",
+          "searchVolume": "1000+",
+          "startedAt": "2026-11-01T19:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "juventus vs napoli",
+          "searchVolume": "1000+",
+          "startedAt": "2026-11-01T19:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "lamine camara",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-01T18:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "premier league table",
           "searchVolume": "200+",
-          "startedAt": "2026-11-01T14:40:00Z",
+          "startedAt": "2026-11-01T18:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "racing santander vs real madrid",
-          "searchVolume": "20000+",
-          "startedAt": "2026-11-01T14:20:00Z",
+          "title": "twitch",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-01T18:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "arsenal vs",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-01T18:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "yan diomandé",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-01T17:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-11-01T16:25:31Z"
+  "generatedAt": "2026-11-01T20:49:56Z"
 }
