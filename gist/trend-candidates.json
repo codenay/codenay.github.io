@@ -8,14 +8,44 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
+          "title": "new england vs inter miami",
+          "searchVolume": "500+",
+          "startedAt": "2026-11-01T23:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "athletic bilbao vs real sociedad standings",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-01T22:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "ghana women's national under-17 football team",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-01T21:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "napoli",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-01T21:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "f1",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-01T20:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "accra",
-          "searchVolume": "1000+",
+          "searchVolume": "5000+",
           "startedAt": "2026-11-01T20:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "marseille vs toulouse",
-          "searchVolume": "100+",
+          "searchVolume": "200+",
           "startedAt": "2026-11-01T20:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -27,44 +57,14 @@
         },
         {
           "title": "athletic vs real sociedad",
-          "searchVolume": "1000+",
+          "searchVolume": "2000+",
           "startedAt": "2026-11-01T19:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "juventus vs napoli",
-          "searchVolume": "1000+",
+          "searchVolume": "2000+",
           "startedAt": "2026-11-01T19:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "lamine camara",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-01T18:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "premier league table",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-01T18:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "twitch",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-01T18:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "arsenal vs",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-01T18:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "yan diomandé",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-01T17:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-11-01T20:49:56Z"
+  "generatedAt": "2026-11-02T00:44:06Z"
 }
