@@ -8,8 +8,14 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
+          "title": "warriors vs clippers",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-02T05:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "new england vs inter miami",
-          "searchVolume": "500+",
+          "searchVolume": "2000+",
           "startedAt": "2026-11-01T23:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -17,12 +23,6 @@
           "title": "athletic bilbao vs real sociedad standings",
           "searchVolume": "200+",
           "startedAt": "2026-11-01T22:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "ghana women's national under-17 football team",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-01T21:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
@@ -51,20 +51,20 @@
         },
         {
           "title": "fifa u-17 women's world cup",
-          "searchVolume": "1000+",
+          "searchVolume": "500+",
           "startedAt": "2026-11-01T19:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "athletic vs real sociedad",
-          "searchVolume": "2000+",
-          "startedAt": "2026-11-01T19:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "juventus vs napoli",
           "searchVolume": "2000+",
           "startedAt": "2026-11-01T19:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "lamine camara",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-01T18:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-11-02T00:44:06Z"
+  "generatedAt": "2026-11-02T06:53:24Z"
 }
