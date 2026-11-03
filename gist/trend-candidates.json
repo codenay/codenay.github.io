@@ -8,6 +8,30 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
+          "title": "lakers vs heat",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-03T06:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "ghanaweb.com",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-03T06:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "warriors vs suns",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-03T05:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "newcastle united f.c. vs everton f.c. standings",
+          "searchVolume": "5000+",
+          "startedAt": "2026-11-02T22:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "benfica vs alverca",
           "searchVolume": "500+",
           "startedAt": "2026-11-02T20:30:00Z",
@@ -15,7 +39,7 @@
         },
         {
           "title": "alexander isak",
-          "searchVolume": "100+",
+          "searchVolume": "200+",
           "startedAt": "2026-11-02T20:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -26,13 +50,13 @@
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "atalanta vs parma",
+          "title": "deportivo vs osasuna",
           "searchVolume": "500+",
           "startedAt": "2026-11-02T20:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "deportivo vs osasuna",
+          "title": "atalanta vs parma",
           "searchVolume": "500+",
           "startedAt": "2026-11-02T20:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
@@ -41,30 +65,6 @@
           "title": "al-ittihad vs al ain",
           "searchVolume": "200+",
           "startedAt": "2026-11-02T19:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "newcastle vs everton",
-          "searchVolume": "5000+",
-          "startedAt": "2026-11-02T19:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "ocarina of time",
-          "searchVolume": "500+",
-          "startedAt": "2026-11-02T19:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "mtn group",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-02T19:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "sleep",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-02T18:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-11-02T23:53:07Z"
+  "generatedAt": "2026-11-03T06:45:11Z"
 }
