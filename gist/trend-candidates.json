@@ -8,63 +8,63 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "barcelone – aston villa",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-03T19:40:00Z",
+          "title": "us midterm elections 2026",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-03T22:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "feyenoord vs inter",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-03T19:30:00Z",
+          "title": "champions league games",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-03T22:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "qpr vs burnley",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-03T19:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "man utd vs roma",
-          "searchVolume": "10000+",
-          "startedAt": "2026-11-03T19:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "villarreal vs psg",
+          "title": "fc barcelona vs aston villa standings",
           "searchVolume": "5000+",
-          "startedAt": "2026-11-03T19:10:00Z",
+          "startedAt": "2026-11-03T22:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "atlético vs bayern",
-          "searchVolume": "2000+",
-          "startedAt": "2026-11-03T19:10:00Z",
+          "title": "atlético madrid vs bayern munich standings",
+          "searchVolume": "1000+",
+          "startedAt": "2026-11-03T22:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "sporting",
+          "title": "uefa champions league",
+          "searchVolume": "1000+",
+          "startedAt": "2026-11-03T22:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "atlético madrid",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-03T21:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "flashscore live",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-03T21:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "bodø/glimt vs losc",
+          "searchVolume": "500+",
+          "startedAt": "2026-11-03T21:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "bayern munich",
+          "searchVolume": "1000+",
+          "startedAt": "2026-11-03T20:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "bayern",
           "searchVolume": "200+",
-          "startedAt": "2026-11-03T19:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "sporting cp",
-          "searchVolume": "500+",
-          "startedAt": "2026-11-03T18:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "galatasaray",
-          "searchVolume": "500+",
-          "startedAt": "2026-11-03T18:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "ucl",
-          "searchVolume": "2000+",
-          "startedAt": "2026-11-03T17:50:00Z",
+          "startedAt": "2026-11-03T20:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-11-03T20:38:22Z"
+  "generatedAt": "2026-11-04T00:54:15Z"
 }
