@@ -8,15 +8,51 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "manuel neuer",
+          "title": "floyd mayweather jr.",
           "searchVolume": "100+",
-          "startedAt": "2026-11-04T06:50:00Z",
+          "startedAt": "2026-11-04T15:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "federico valverde",
+          "title": "jj gabriel",
+          "searchVolume": "500+",
+          "startedAt": "2026-11-04T14:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "carlos baleba",
           "searchVolume": "200+",
-          "startedAt": "2026-11-04T05:30:00Z",
+          "startedAt": "2026-11-04T11:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "traffic enforcement camera",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-04T08:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "bank of ghana",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-04T08:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "2027 africa cup of nations",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-04T07:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "us midterm elections",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-04T07:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "manuel neuer",
+          "searchVolume": "500+",
+          "startedAt": "2026-11-04T06:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
@@ -26,45 +62,9 @@
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "manchester united f.c.",
-          "searchVolume": "1000+",
-          "startedAt": "2026-11-04T05:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "manchester city f.c.",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-04T04:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "traffitech",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-04T03:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "ig",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-04T01:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "2026 us election results",
+          "title": "federico valverde",
           "searchVolume": "2000+",
-          "startedAt": "2026-11-04T01:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "jos leijdekkers",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-03T23:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "bbc news",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-03T22:50:00Z",
+          "startedAt": "2026-11-04T05:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-11-04T07:29:13Z"
+  "generatedAt": "2026-11-04T15:46:47Z"
 }
