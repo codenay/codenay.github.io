@@ -8,63 +8,63 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "milan vs ferencváros",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-05T17:20:00Z",
+          "title": "coach",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-05T21:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "real sociedad vs ol",
+          "title": "leverkusen vs marseille",
           "searchVolume": "200+",
-          "startedAt": "2026-11-05T17:10:00Z",
+          "startedAt": "2026-11-05T21:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "sparta praha vs bournemouth",
+          "title": "monaco vs nordsjælland",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-05T21:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "celta vs union",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-05T20:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "office of the registrar of companies",
           "searchVolume": "500+",
-          "startedAt": "2026-11-05T17:00:00Z",
+          "startedAt": "2026-11-05T20:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "matheus cunha",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-05T16:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "jusag strike",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-05T15:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "hawaiian pizza",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-05T14:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "cristiano ronaldo",
+          "title": "ac milan vs ferencváros standings",
           "searchVolume": "2000+",
-          "startedAt": "2026-11-05T11:50:00Z",
+          "startedAt": "2026-11-05T20:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "goldbod",
+          "title": "benfica vs lech poznań",
           "searchVolume": "200+",
-          "startedAt": "2026-11-05T11:10:00Z",
+          "startedAt": "2026-11-05T20:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "pound sterling",
-          "searchVolume": "500+",
-          "startedAt": "2026-11-05T10:20:00Z",
+          "title": "az vs juventus",
+          "searchVolume": "1000+",
+          "startedAt": "2026-11-05T19:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "paris saint-germain f.c.",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-05T09:30:00Z",
+          "title": "getafe vs brighton",
+          "searchVolume": "2000+",
+          "startedAt": "2026-11-05T19:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "sunderland vs dinamo zagreb",
+          "searchVolume": "1000+",
+          "startedAt": "2026-11-05T19:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-11-05T17:39:56Z"
+  "generatedAt": "2026-11-05T22:52:19Z"
 }
