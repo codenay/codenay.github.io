@@ -8,19 +8,43 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "slavia praha vs arsenal f.c. standings",
-          "searchVolume": "500+",
-          "startedAt": "2026-11-04T22:20:00Z",
+          "title": "paris jackson",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-05T08:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "dortmund",
+          "title": "unai emery",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-05T06:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "pistons vs 76ers",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-05T05:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "ig",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-05T03:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "traffitech gh ghana police speed cameras",
+          "searchVolume": "1000+",
+          "startedAt": "2026-11-05T01:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "nigeria",
           "searchVolume": "100+",
           "startedAt": "2026-11-04T22:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "nigeria",
+          "title": "dortmund",
           "searchVolume": "100+",
           "startedAt": "2026-11-04T22:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
@@ -42,30 +66,6 @@
           "searchVolume": "100+",
           "startedAt": "2026-11-04T21:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "twitch",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-04T20:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "kylian mbappé",
-          "searchVolume": "500+",
-          "startedAt": "2026-11-04T20:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "lens vs como",
-          "searchVolume": "2000+",
-          "startedAt": "2026-11-04T20:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "fenerbahçe vs liverpool f.c. standings",
-          "searchVolume": "20000+",
-          "startedAt": "2026-11-04T19:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
     },
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-11-05T01:48:29Z"
+  "generatedAt": "2026-11-05T09:28:35Z"
 }
