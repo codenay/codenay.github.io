@@ -8,6 +8,42 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
+          "title": "slavia praha vs arsenal f.c. standings",
+          "searchVolume": "500+",
+          "startedAt": "2026-11-04T22:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "dortmund",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-04T22:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "nigeria",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-04T22:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "como 1907",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-04T21:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "psv vs club brugge",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-04T21:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "bristol city vs wolves",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-04T21:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "twitch",
           "searchVolume": "100+",
           "startedAt": "2026-11-04T20:40:00Z",
@@ -15,56 +51,20 @@
         },
         {
           "title": "kylian mbappé",
-          "searchVolume": "1000+",
+          "searchVolume": "500+",
           "startedAt": "2026-11-04T20:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "lens vs como",
-          "searchVolume": "1000+",
+          "searchVolume": "2000+",
           "startedAt": "2026-11-04T20:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "porto vs napoli",
-          "searchVolume": "500+",
+          "title": "fenerbahçe vs liverpool f.c. standings",
+          "searchVolume": "20000+",
           "startedAt": "2026-11-04T19:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "ucl table",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-04T19:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "liverpool vs fenerbahce",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-04T19:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "real madrid vs aek",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-04T19:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "dortmund vs betis",
-          "searchVolume": "1000+",
-          "startedAt": "2026-11-04T19:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "funke akindele",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-04T19:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "rb leipzig vs man city",
-          "searchVolume": "10000+",
-          "startedAt": "2026-11-04T19:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-11-04T21:33:05Z"
+  "generatedAt": "2026-11-05T01:48:29Z"
 }
