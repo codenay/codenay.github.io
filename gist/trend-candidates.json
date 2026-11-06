@@ -27,19 +27,13 @@
         },
         {
           "title": "celta vs union",
-          "searchVolume": "100+",
+          "searchVolume": "200+",
           "startedAt": "2026-11-05T20:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "office of the registrar of companies",
-          "searchVolume": "500+",
-          "startedAt": "2026-11-05T20:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "ac milan vs ferencváros standings",
-          "searchVolume": "2000+",
+          "searchVolume": "1000+",
           "startedAt": "2026-11-05T20:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -66,6 +60,12 @@
           "searchVolume": "1000+",
           "startedAt": "2026-11-05T19:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "europa league",
+          "searchVolume": "500+",
+          "startedAt": "2026-11-05T18:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
     },
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-11-05T22:52:19Z"
+  "generatedAt": "2026-11-06T03:25:59Z"
 }
