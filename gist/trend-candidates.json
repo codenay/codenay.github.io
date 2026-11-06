@@ -8,8 +8,50 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "coach",
+          "title": "fifa u17 women's world cup",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-06T09:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "real madrid champions league",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-06T09:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "thomas tuchel",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-06T06:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "chelsea f.c.",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-06T05:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "gianni infantino",
           "searchVolume": "100+",
+          "startedAt": "2026-11-06T05:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "vinícius júnior",
+          "searchVolume": "500+",
+          "startedAt": "2026-11-06T05:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "warriors vs heat",
+          "searchVolume": "500+",
+          "startedAt": "2026-11-06T05:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "coach",
+          "searchVolume": "200+",
           "startedAt": "2026-11-05T21:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -24,48 +66,6 @@
           "searchVolume": "200+",
           "startedAt": "2026-11-05T21:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "celta vs union",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-05T20:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "office of the registrar of companies",
-          "searchVolume": "1000+",
-          "startedAt": "2026-11-05T20:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "benfica vs lech poznań",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-05T20:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "az vs juventus",
-          "searchVolume": "1000+",
-          "startedAt": "2026-11-05T19:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "getafe vs brighton",
-          "searchVolume": "2000+",
-          "startedAt": "2026-11-05T19:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "sunderland vs dinamo zagreb",
-          "searchVolume": "1000+",
-          "startedAt": "2026-11-05T19:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "europa league",
-          "searchVolume": "500+",
-          "startedAt": "2026-11-05T18:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
     },
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-11-06T03:25:59Z"
+  "generatedAt": "2026-11-06T11:31:04Z"
 }
