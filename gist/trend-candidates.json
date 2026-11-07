@@ -8,63 +8,63 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "frank lampard",
+          "title": "galatasaray vs amed sk",
           "searchVolume": "200+",
-          "startedAt": "2026-11-07T07:40:00Z",
+          "startedAt": "2026-11-07T15:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "lakers vs trail blazers",
+          "title": "dortmund",
           "searchVolume": "200+",
-          "startedAt": "2026-11-07T06:00:00Z",
+          "startedAt": "2026-11-07T15:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "cavaliers vs 76ers",
+          "title": "athletic club vs real madrid",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-07T15:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "espanyol vs deportivo",
           "searchVolume": "100+",
-          "startedAt": "2026-11-07T05:50:00Z",
+          "startedAt": "2026-11-07T15:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "ghana national under-23 football team",
-          "searchVolume": "500+",
-          "startedAt": "2026-11-07T04:50:00Z",
+          "title": "blackburn rovers vs west ham",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-07T15:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "gimli glider",
-          "searchVolume": "500+",
-          "startedAt": "2026-11-07T04:50:00Z",
+          "title": "bayern munich",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-07T15:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "cole palmer",
+          "title": "bundesliga",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-07T15:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "torino vs lecce",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-07T14:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "fulham vs newcastle",
           "searchVolume": "1000+",
-          "startedAt": "2026-11-07T04:30:00Z",
+          "startedAt": "2026-11-07T14:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "queen maxima",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-07T01:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "atiku abubakar",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-06T22:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "sevilla",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-06T22:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "everton",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-06T21:30:00Z",
+          "title": "rb leipzig vs augsburg",
+          "searchVolume": "500+",
+          "startedAt": "2026-11-07T14:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-11-07T10:10:07Z"
+  "generatedAt": "2026-11-07T16:25:25Z"
 }
