@@ -8,6 +8,18 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
+          "title": "sevilla fc vs deportivo alavés standings",
+          "searchVolume": "500+",
+          "startedAt": "2026-11-06T22:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "atiku abubakar",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-06T22:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "sevilla",
           "searchVolume": "200+",
           "startedAt": "2026-11-06T22:00:00Z",
@@ -15,7 +27,7 @@
         },
         {
           "title": "venezia vs udinese",
-          "searchVolume": "100+",
+          "searchVolume": "200+",
           "startedAt": "2026-11-06T21:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -54,18 +66,6 @@
           "searchVolume": "200+",
           "startedAt": "2026-11-06T17:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "tesla cybertruck",
-          "searchVolume": "500+",
-          "startedAt": "2026-11-06T16:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "wayne rooney",
-          "searchVolume": "500+",
-          "startedAt": "2026-11-06T13:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
     },
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-11-06T23:31:25Z"
+  "generatedAt": "2026-11-07T03:13:28Z"
 }
