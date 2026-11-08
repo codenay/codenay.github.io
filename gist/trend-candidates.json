@@ -8,9 +8,9 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "nigeria vs japan u17",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-07T23:20:00Z",
+          "title": "warriors vs magic",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-08T05:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
@@ -44,6 +44,12 @@
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
+          "title": "madrid vs",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-07T20:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "real madrid",
           "searchVolume": "2000+",
           "startedAt": "2026-11-07T20:40:00Z",
@@ -60,12 +66,6 @@
           "searchVolume": "200+",
           "startedAt": "2026-11-07T20:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "jesus de miguel",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-07T20:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
     },
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-11-07T23:58:11Z"
+  "generatedAt": "2026-11-08T05:58:49Z"
 }
