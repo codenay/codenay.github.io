@@ -8,63 +8,63 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "warriors vs magic",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-08T05:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "mls",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-07T23:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "grand theft auto vi",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-07T21:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "sporting vs moreirense",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-07T21:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "sporting cp",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-07T21:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "laliga games",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-07T21:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "madrid vs",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-07T20:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "real madrid",
-          "searchVolume": "2000+",
-          "startedAt": "2026-11-07T20:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "psg",
+          "title": "sunderland vs chelsea",
           "searchVolume": "1000+",
-          "startedAt": "2026-11-07T20:40:00Z",
+          "startedAt": "2026-11-08T13:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "roma",
+          "title": "palace vs liverpool",
+          "searchVolume": "500+",
+          "startedAt": "2026-11-08T13:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "aston villa vs man utd",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-08T12:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "elche vs betis",
+          "searchVolume": "500+",
+          "startedAt": "2026-11-08T12:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "heerenveen vs feyenoord",
           "searchVolume": "200+",
-          "startedAt": "2026-11-07T20:30:00Z",
+          "startedAt": "2026-11-08T11:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "napoli vs lazio",
+          "searchVolume": "1000+",
+          "startedAt": "2026-11-08T11:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "bart verbruggen",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-08T09:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "coventry city football club",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-08T09:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "jehovah's witnesses and blood transfusions",
+          "searchVolume": "2000+",
+          "startedAt": "2026-11-08T09:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "jaguar land rover",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-08T09:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-11-08T05:58:49Z"
+  "generatedAt": "2026-11-08T13:22:14Z"
 }
