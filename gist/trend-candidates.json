@@ -8,9 +8,39 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "jensen huang",
+          "title": "nvidia ceo jensen huang",
+          "searchVolume": "500+",
+          "startedAt": "2026-11-09T08:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "gcse",
           "searchVolume": "200+",
-          "startedAt": "2026-11-09T00:30:00Z",
+          "startedAt": "2026-11-09T06:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "daniel-kofi kyereh",
+          "searchVolume": "1000+",
+          "startedAt": "2026-11-09T06:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "time",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-09T05:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "debt",
+          "searchVolume": "500+",
+          "startedAt": "2026-11-09T04:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "traffitech gh speed camera signs",
+          "searchVolume": "2000+",
+          "startedAt": "2026-11-09T03:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
@@ -20,51 +50,21 @@
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
+          "title": "accra sky train 2 million case",
+          "searchVolume": "500+",
+          "startedAt": "2026-11-08T23:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "juventus fc",
-          "searchVolume": "200+",
+          "searchVolume": "100+",
           "startedAt": "2026-11-08T22:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "jamal musiala",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-08T21:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "atlético madrid vs fc barcelona standings",
-          "searchVolume": "10000+",
-          "startedAt": "2026-11-08T21:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "bulls vs 76ers",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-08T21:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "benfica",
-          "searchVolume": "500+",
-          "startedAt": "2026-11-08T21:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "lens vs marseille",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-08T20:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "barca vs",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-08T20:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "barca",
           "searchVolume": "1000+",
-          "startedAt": "2026-11-08T20:10:00Z",
+          "startedAt": "2026-11-08T21:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-11-09T01:58:40Z"
+  "generatedAt": "2026-11-09T09:46:35Z"
 }
