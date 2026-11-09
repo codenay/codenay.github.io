@@ -8,9 +8,15 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "lamine yamal",
+          "title": "jensen huang",
           "searchVolume": "200+",
-          "startedAt": "2026-11-08T22:10:00Z",
+          "startedAt": "2026-11-09T00:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "pistons vs lakers",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-08T23:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
@@ -20,14 +26,14 @@
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "atlético madrid vs fc barcelona standings",
-          "searchVolume": "5000+",
-          "startedAt": "2026-11-08T21:20:00Z",
+          "title": "jamal musiala",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-08T21:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "benfica",
-          "searchVolume": "500+",
+          "title": "atlético madrid vs fc barcelona standings",
+          "searchVolume": "10000+",
           "startedAt": "2026-11-08T21:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -38,33 +44,27 @@
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
+          "title": "benfica",
+          "searchVolume": "500+",
+          "startedAt": "2026-11-08T21:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "lens vs marseille",
           "searchVolume": "200+",
           "startedAt": "2026-11-08T20:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "barcelona match today",
-          "searchVolume": "5000+",
-          "startedAt": "2026-11-08T20:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "barcelona vs atlético madrid",
-          "searchVolume": "1000+",
-          "startedAt": "2026-11-08T20:20:00Z",
+          "title": "barca vs",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-08T20:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "barca",
           "searchVolume": "1000+",
           "startedAt": "2026-11-08T20:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "atlético vs barcelona",
-          "searchVolume": "50000+",
-          "startedAt": "2026-11-08T19:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-11-08T22:29:33Z"
+  "generatedAt": "2026-11-09T01:58:40Z"
 }
