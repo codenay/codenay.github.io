@@ -8,63 +8,63 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "james bond",
+          "title": "oil refinery",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-09T21:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "météo demain",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-09T21:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "weather tomorrow",
+          "searchVolume": "20000+",
+          "startedAt": "2026-11-09T20:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "video assistant referee",
           "searchVolume": "100+",
+          "startedAt": "2026-11-09T20:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "kim björkegren",
+          "searchVolume": "5000+",
+          "startedAt": "2026-11-09T18:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "james bond",
+          "searchVolume": "200+",
           "startedAt": "2026-11-09T17:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "fraud",
-          "searchVolume": "500+",
+          "searchVolume": "1000+",
           "startedAt": "2026-11-09T16:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "ronald araújo",
-          "searchVolume": "500+",
+          "searchVolume": "1000+",
           "startedAt": "2026-11-09T15:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "russell brand",
-          "searchVolume": "200+",
+          "searchVolume": "500+",
           "startedAt": "2026-11-09T15:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "caf announces afcon qualifier dates",
-          "searchVolume": "500+",
-          "startedAt": "2026-11-09T14:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "harry maguire",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-09T14:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "ego nwosu",
+          "title": "nvidia",
           "searchVolume": "200+",
-          "startedAt": "2026-11-09T14:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "jürgen klopp",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-09T12:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "2027 africa cup of nations",
-          "searchVolume": "5000+",
-          "startedAt": "2026-11-09T10:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "diego simeone",
-          "searchVolume": "500+",
-          "startedAt": "2026-11-09T08:40:00Z",
+          "startedAt": "2026-11-09T15:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-11-09T20:10:39Z"
+  "generatedAt": "2026-11-10T02:44:06Z"
 }
