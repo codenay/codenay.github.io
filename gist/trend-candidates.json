@@ -8,63 +8,63 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "nvidia ceo jensen huang",
+          "title": "thibaut courtois",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-11T18:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "agya koo",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-11T18:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "crocodiles",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-11T17:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "alexander isak",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-11T16:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "jordan pickford",
           "searchVolume": "200+",
-          "startedAt": "2026-11-11T07:50:00Z",
+          "startedAt": "2026-11-11T13:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "arrest",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-11T07:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "national identification authority",
-          "searchVolume": "1000+",
-          "startedAt": "2026-11-11T05:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "76ers vs celtics",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-11T05:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "felix nmecha",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-11T05:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "ghana national football team",
-          "searchVolume": "2000+",
-          "startedAt": "2026-11-11T05:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "cole palmer",
+          "title": "jonathan mensah football retirement",
           "searchVolume": "500+",
-          "startedAt": "2026-11-11T03:50:00Z",
+          "startedAt": "2026-11-11T12:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "google",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-11T01:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "cars",
+          "title": "ghana carbonate reservoir oil discovery",
           "searchVolume": "500+",
-          "startedAt": "2026-11-10T22:10:00Z",
+          "startedAt": "2026-11-11T11:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "banking license",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-10T21:00:00Z",
+          "title": "mauricio pochettino",
+          "searchVolume": "500+",
+          "startedAt": "2026-11-11T09:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "endrick",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-11T09:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "scholarship",
+          "searchVolume": "500+",
+          "startedAt": "2026-11-11T09:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-11-11T10:55:01Z"
+  "generatedAt": "2026-11-11T18:41:36Z"
 }
