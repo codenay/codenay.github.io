@@ -8,63 +8,63 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "türkiye vs belgium",
+          "title": "2027 budget",
+          "searchVolume": "2000+",
+          "startedAt": "2026-11-12T21:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "france",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-12T20:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "spain",
           "searchVolume": "500+",
+          "startedAt": "2026-11-12T20:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "england vs croatia",
+          "searchVolume": "5000+",
+          "startedAt": "2026-11-12T19:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "italy vs france",
+          "searchVolume": "10000+",
+          "startedAt": "2026-11-12T19:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "czechia vs spain",
+          "searchVolume": "5000+",
+          "startedAt": "2026-11-12T19:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "côte d'ivoire vs gambia",
+          "searchVolume": "2000+",
+          "startedAt": "2026-11-12T18:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "barcelona vs arsenal",
+          "searchVolume": "2000+",
+          "startedAt": "2026-11-12T17:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "türkiye vs belgium",
+          "searchVolume": "2000+",
           "startedAt": "2026-11-12T16:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "livescore",
-          "searchVolume": "2000+",
-          "startedAt": "2026-11-12T15:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "live score",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-12T15:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "flashscore",
-          "searchVolume": "2000+",
-          "startedAt": "2026-11-12T15:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "fotmob",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-12T15:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "ghanaian cedi",
-          "searchVolume": "5000+",
-          "startedAt": "2026-11-12T15:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "sofascore",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-12T15:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "africa cup of nations qualification",
-          "searchVolume": "2000+",
-          "startedAt": "2026-11-12T14:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "thunderstorm warning",
+          "title": "dr congo vs sierra leone",
           "searchVolume": "500+",
-          "startedAt": "2026-11-12T14:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "ghana match",
-          "searchVolume": "10000+",
-          "startedAt": "2026-11-12T14:20:00Z",
+          "startedAt": "2026-11-12T16:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-11-12T17:05:34Z"
+  "generatedAt": "2026-11-12T22:43:54Z"
 }
