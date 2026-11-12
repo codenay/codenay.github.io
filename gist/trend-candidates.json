@@ -8,14 +8,38 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
+          "title": "russia",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-11T21:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "weightlifter",
+          "searchVolume": "2000+",
+          "startedAt": "2026-11-11T20:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "drawing",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-11T18:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "thibaut courtois",
+          "searchVolume": "500+",
+          "startedAt": "2026-11-11T18:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "eswatini",
           "searchVolume": "100+",
           "startedAt": "2026-11-11T18:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "agya koo",
-          "searchVolume": "100+",
+          "searchVolume": "500+",
           "startedAt": "2026-11-11T18:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -27,44 +51,20 @@
         },
         {
           "title": "alexander isak",
-          "searchVolume": "100+",
+          "searchVolume": "200+",
           "startedAt": "2026-11-11T16:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "jordan pickford",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-11T13:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "jonathan mensah football retirement",
-          "searchVolume": "500+",
-          "startedAt": "2026-11-11T12:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "ghana carbonate reservoir oil discovery",
-          "searchVolume": "500+",
-          "startedAt": "2026-11-11T11:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "mauricio pochettino",
-          "searchVolume": "500+",
-          "startedAt": "2026-11-11T09:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "endrick",
+          "title": "ghana black stars afcon qualification",
           "searchVolume": "100+",
-          "startedAt": "2026-11-11T09:50:00Z",
+          "startedAt": "2026-11-11T14:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "scholarship",
-          "searchVolume": "500+",
-          "startedAt": "2026-11-11T09:20:00Z",
+          "title": "ghana afcon 2027 qualification status",
+          "searchVolume": "5000+",
+          "startedAt": "2026-11-11T13:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-11-11T18:41:36Z"
+  "generatedAt": "2026-11-12T00:59:48Z"
 }
