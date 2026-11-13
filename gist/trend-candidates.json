@@ -8,63 +8,63 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "outlook",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-13T01:00:00Z",
+          "title": "burkina faso",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-13T10:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "senegal national football team vs sudan national football team standings",
-          "searchVolume": "1000+",
-          "startedAt": "2026-11-12T23:10:00Z",
+          "title": "tat",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-13T09:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "ivory coast national football team vs gambia national football team standings",
+          "title": "new zealand vs india",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-13T09:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "microsoft",
           "searchVolume": "2000+",
-          "startedAt": "2026-11-12T22:30:00Z",
+          "startedAt": "2026-11-13T07:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "u-23 afcon qualifiers results",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-13T07:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "76ers vs raptors",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-13T06:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "bruno fernandes",
+          "searchVolume": "500+",
+          "startedAt": "2026-11-13T06:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "ghana new economy plan 2027",
+          "searchVolume": "500+",
+          "startedAt": "2026-11-13T05:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "gta6",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-13T03:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "czech republic national football team vs spain national football team standings",
-          "searchVolume": "5000+",
+          "searchVolume": "10000+",
           "startedAt": "2026-11-12T22:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "england national football team vs croatia national football team standings",
-          "searchVolume": "1000+",
-          "startedAt": "2026-11-12T22:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "spain match today",
-          "searchVolume": "500+",
-          "startedAt": "2026-11-12T20:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "france",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-12T20:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "spain",
-          "searchVolume": "500+",
-          "startedAt": "2026-11-12T20:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "nvidia ceo jensen huang",
-          "searchVolume": "2000+",
-          "startedAt": "2026-11-12T20:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "england vs croatia",
-          "searchVolume": "5000+",
-          "startedAt": "2026-11-12T19:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-11-13T02:55:40Z"
+  "generatedAt": "2026-11-13T10:56:43Z"
 }
