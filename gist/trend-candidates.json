@@ -8,9 +8,39 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "2027 budget",
+          "title": "outlook",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-13T01:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "senegal national football team vs sudan national football team standings",
+          "searchVolume": "1000+",
+          "startedAt": "2026-11-12T23:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "ivory coast national football team vs gambia national football team standings",
           "searchVolume": "2000+",
-          "startedAt": "2026-11-12T21:20:00Z",
+          "startedAt": "2026-11-12T22:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "czech republic national football team vs spain national football team standings",
+          "searchVolume": "5000+",
+          "startedAt": "2026-11-12T22:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "england national football team vs croatia national football team standings",
+          "searchVolume": "1000+",
+          "startedAt": "2026-11-12T22:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "spain match today",
+          "searchVolume": "500+",
+          "startedAt": "2026-11-12T20:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
@@ -26,45 +56,15 @@
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
+          "title": "nvidia ceo jensen huang",
+          "searchVolume": "2000+",
+          "startedAt": "2026-11-12T20:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "england vs croatia",
           "searchVolume": "5000+",
           "startedAt": "2026-11-12T19:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "italy vs france",
-          "searchVolume": "10000+",
-          "startedAt": "2026-11-12T19:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "czechia vs spain",
-          "searchVolume": "5000+",
-          "startedAt": "2026-11-12T19:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "côte d'ivoire vs gambia",
-          "searchVolume": "2000+",
-          "startedAt": "2026-11-12T18:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "barcelona vs arsenal",
-          "searchVolume": "2000+",
-          "startedAt": "2026-11-12T17:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "türkiye vs belgium",
-          "searchVolume": "2000+",
-          "startedAt": "2026-11-12T16:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "dr congo vs sierra leone",
-          "searchVolume": "500+",
-          "startedAt": "2026-11-12T16:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-11-12T22:43:54Z"
+  "generatedAt": "2026-11-13T02:55:40Z"
 }
