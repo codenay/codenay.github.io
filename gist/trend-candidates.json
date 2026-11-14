@@ -8,63 +8,63 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "algeria vs togo",
+          "title": "haiti vs usa",
           "searchVolume": "200+",
-          "startedAt": "2026-11-14T19:00:00Z",
+          "startedAt": "2026-11-14T21:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "egypt national football team",
+          "title": "al-nassr fc",
+          "searchVolume": "500+",
+          "startedAt": "2026-11-14T21:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "austria vs ireland",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-14T20:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "spain national football team",
           "searchVolume": "100+",
-          "startedAt": "2026-11-14T19:00:00Z",
+          "startedAt": "2026-11-14T20:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "portugal vs denmark",
-          "searchVolume": "1000+",
-          "startedAt": "2026-11-14T18:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "norway vs wales",
-          "searchVolume": "2000+",
-          "startedAt": "2026-11-14T16:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "lilo & scratch",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-14T16:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "ghana revenue authority",
-          "searchVolume": "1000+",
-          "startedAt": "2026-11-14T15:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "thomas tuchel",
+          "title": "portugal match today",
           "searchVolume": "500+",
-          "startedAt": "2026-11-14T15:50:00Z",
+          "startedAt": "2026-11-14T20:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "kosovo vs israel",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-14T15:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "scotland national football team",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-14T15:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "heart of lions vs dreams",
+          "title": "sweden vs bosnia and herzegovina",
           "searchVolume": "500+",
-          "startedAt": "2026-11-14T15:10:00Z",
+          "startedAt": "2026-11-14T20:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "real madrid vs levante badalona",
+          "searchVolume": "500+",
+          "startedAt": "2026-11-14T19:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "portugal",
+          "searchVolume": "500+",
+          "startedAt": "2026-11-14T19:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "erling haaland",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-14T19:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "aliko dangote",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-14T19:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-11-14T19:09:41Z"
+  "generatedAt": "2026-11-14T22:58:11Z"
 }
