@@ -8,9 +8,27 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
+          "title": "spurs vs warriors",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-14T05:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "argentina vs uruguay",
+          "searchVolume": "5000+",
+          "startedAt": "2026-11-13T22:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "morocco national football team vs niger national football team standings",
           "searchVolume": "2000+",
           "startedAt": "2026-11-13T22:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "serbia national football team vs germany national football team standings",
+          "searchVolume": "2000+",
+          "startedAt": "2026-11-13T22:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
@@ -33,14 +51,8 @@
         },
         {
           "title": "gabriel martinelli",
-          "searchVolume": "200+",
+          "searchVolume": "500+",
           "startedAt": "2026-11-13T19:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "morocco vs niger",
-          "searchVolume": "2000+",
-          "startedAt": "2026-11-13T19:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
@@ -51,20 +63,8 @@
         },
         {
           "title": "netherlands vs greece",
-          "searchVolume": "1000+",
+          "searchVolume": "2000+",
           "startedAt": "2026-11-13T19:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "serbia vs germany",
-          "searchVolume": "2000+",
-          "startedAt": "2026-11-13T19:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "egypt vs malawi",
-          "searchVolume": "2000+",
-          "startedAt": "2026-11-13T19:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-11-13T23:52:53Z"
+  "generatedAt": "2026-11-14T06:19:38Z"
 }
