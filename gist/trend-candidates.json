@@ -8,15 +8,39 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "haiti vs usa",
-          "searchVolume": "500+",
-          "startedAt": "2026-11-14T21:50:00Z",
+          "title": "ashanti region",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-15T08:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "al-nassr fc",
+          "title": "manchester city f.c.",
           "searchVolume": "1000+",
-          "startedAt": "2026-11-14T21:10:00Z",
+          "startedAt": "2026-11-15T05:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "jamaica vs mexico",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-15T04:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "sadio mané",
+          "searchVolume": "2000+",
+          "startedAt": "2026-11-15T04:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "ufc",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-15T04:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "haiti vs usa",
+          "searchVolume": "500+",
+          "startedAt": "2026-11-14T21:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
@@ -27,44 +51,20 @@
         },
         {
           "title": "oviedo vs girona",
-          "searchVolume": "100+",
+          "searchVolume": "200+",
           "startedAt": "2026-11-14T20:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "spain national football team",
-          "searchVolume": "100+",
+          "searchVolume": "200+",
           "startedAt": "2026-11-14T20:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "portugal match today",
-          "searchVolume": "1000+",
-          "startedAt": "2026-11-14T20:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "sweden vs bosnia and herzegovina",
           "searchVolume": "500+",
           "startedAt": "2026-11-14T20:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "real madrid vs levante badalona",
-          "searchVolume": "500+",
-          "startedAt": "2026-11-14T19:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "portugal",
-          "searchVolume": "500+",
-          "startedAt": "2026-11-14T19:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "aliko dangote",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-14T19:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-11-15T02:38:45Z"
+  "generatedAt": "2026-11-15T09:55:49Z"
 }
