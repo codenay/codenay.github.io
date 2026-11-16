@@ -8,14 +8,26 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
+          "title": "ebola",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-16T06:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "fc samartex",
+          "searchVolume": "2000+",
+          "startedAt": "2026-11-16T06:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "ghana",
-          "searchVolume": "100+",
+          "searchVolume": "500+",
           "startedAt": "2026-11-16T01:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "fermín lópez",
-          "searchVolume": "100+",
+          "searchVolume": "200+",
           "startedAt": "2026-11-15T22:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -45,26 +57,14 @@
         },
         {
           "title": "ronaldinho gaúcho",
-          "searchVolume": "1000+",
+          "searchVolume": "2000+",
           "startedAt": "2026-11-15T19:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "belgium vs italy",
-          "searchVolume": "2000+",
-          "startedAt": "2026-11-15T19:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "france vs türkiye",
-          "searchVolume": "10000+",
-          "startedAt": "2026-11-15T19:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "young apostles fc vs medeama standings",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-15T18:50:00Z",
+          "title": "deportivo de la coruña vs fc barcelona femení standings",
+          "searchVolume": "500+",
+          "startedAt": "2026-11-15T19:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-11-16T02:04:24Z"
+  "generatedAt": "2026-11-16T09:40:16Z"
 }
