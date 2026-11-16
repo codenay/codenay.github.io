@@ -8,63 +8,63 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "ebola",
+          "title": "cuba vs grenada",
           "searchVolume": "200+",
-          "startedAt": "2026-11-16T06:20:00Z",
+          "startedAt": "2026-11-16T19:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "fc samartex",
+          "title": "germany vs netherlands",
+          "searchVolume": "1000+",
+          "startedAt": "2026-11-16T19:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "afia schwarzenegger",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-16T19:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "aliko dangote",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-16T18:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "gambia vs ivory coast",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-16T18:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "central african republic vs benin",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-16T17:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "afcon qualifiers table 2027",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-16T17:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "sudan national football team vs senegal national football team standings",
           "searchVolume": "2000+",
-          "startedAt": "2026-11-16T06:10:00Z",
+          "startedAt": "2026-11-16T16:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "ghana",
-          "searchVolume": "500+",
-          "startedAt": "2026-11-16T01:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "fermín lópez",
+          "title": "michael olise",
           "searchVolume": "200+",
-          "startedAt": "2026-11-15T22:30:00Z",
+          "startedAt": "2026-11-16T16:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "croatia national football team vs czech republic national football team standings",
-          "searchVolume": "2000+",
-          "startedAt": "2026-11-15T22:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "suns vs lakers",
+          "title": "robert pattinson",
           "searchVolume": "500+",
-          "startedAt": "2026-11-15T21:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "france match today",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-15T21:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "france",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-15T20:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "ronaldinho gaúcho",
-          "searchVolume": "2000+",
-          "startedAt": "2026-11-15T19:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "deportivo de la coruña vs fc barcelona femení standings",
-          "searchVolume": "500+",
-          "startedAt": "2026-11-15T19:30:00Z",
+          "startedAt": "2026-11-16T16:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-11-16T09:40:16Z"
+  "generatedAt": "2026-11-16T19:51:49Z"
 }
