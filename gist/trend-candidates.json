@@ -8,6 +8,54 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
+          "title": "embassy",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-16T23:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "ghana new falcon 6x jet",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-16T22:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "james trafford",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-16T20:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "king ayisoba",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-16T20:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "aircraft",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-16T20:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "greece vs serbia",
+          "searchVolume": "500+",
+          "startedAt": "2026-11-16T20:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "2027 grammys nominations",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-16T19:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "switzerland vs scotland",
+          "searchVolume": "500+",
+          "startedAt": "2026-11-16T19:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "cuba vs grenada",
           "searchVolume": "200+",
           "startedAt": "2026-11-16T19:40:00Z",
@@ -15,56 +63,8 @@
         },
         {
           "title": "germany vs netherlands",
-          "searchVolume": "1000+",
+          "searchVolume": "5000+",
           "startedAt": "2026-11-16T19:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "afia schwarzenegger",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-16T19:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "aliko dangote",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-16T18:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "gambia vs ivory coast",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-16T18:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "central african republic vs benin",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-16T17:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "afcon qualifiers table 2027",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-16T17:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "sudan national football team vs senegal national football team standings",
-          "searchVolume": "2000+",
-          "startedAt": "2026-11-16T16:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "michael olise",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-16T16:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "robert pattinson",
-          "searchVolume": "500+",
-          "startedAt": "2026-11-16T16:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-11-16T19:51:49Z"
+  "generatedAt": "2026-11-17T02:55:18Z"
 }
