@@ -8,38 +8,56 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "chelsea vs psg",
+          "title": "referee",
           "searchVolume": "200+",
+          "startedAt": "2026-11-18T20:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "ivory coast national football team",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-18T19:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "chelsea vs psg",
+          "searchVolume": "2000+",
           "startedAt": "2026-11-18T19:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "head coach",
-          "searchVolume": "100+",
+          "searchVolume": "200+",
           "startedAt": "2026-11-18T18:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "hostel",
-          "searchVolume": "200+",
+          "searchVolume": "500+",
           "startedAt": "2026-11-18T18:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "juan mata",
-          "searchVolume": "100+",
+          "searchVolume": "200+",
           "startedAt": "2026-11-18T17:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "real madrid vs inter",
-          "searchVolume": "500+",
+          "searchVolume": "1000+",
           "startedAt": "2026-11-18T17:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "traffic enforcement camera",
-          "searchVolume": "200+",
+          "searchVolume": "1000+",
+          "startedAt": "2026-11-18T17:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "john mahama",
+          "searchVolume": "1000+",
           "startedAt": "2026-11-18T17:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -47,24 +65,6 @@
           "title": "cyber attacks",
           "searchVolume": "100+",
           "startedAt": "2026-11-18T15:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "afcon 2027 qualified teams list",
-          "searchVolume": "500+",
-          "startedAt": "2026-11-18T13:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "twitch",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-18T13:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "school",
-          "searchVolume": "500+",
-          "startedAt": "2026-11-18T12:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-11-18T19:36:45Z"
+  "generatedAt": "2026-11-19T01:29:55Z"
 }
