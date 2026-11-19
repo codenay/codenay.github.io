@@ -8,9 +8,45 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
+          "title": "mykhailo mudryk",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-19T07:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "hanan abdul-wahab",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-19T05:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "hat-trick",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-19T04:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "karen real housewives of london",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-19T01:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "bills direct ghana",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-18T23:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "referee",
           "searchVolume": "200+",
           "startedAt": "2026-11-18T20:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "gta vi game",
+          "searchVolume": "2000+",
+          "startedAt": "2026-11-18T19:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
@@ -27,44 +63,8 @@
         },
         {
           "title": "head coach",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-18T18:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "hostel",
           "searchVolume": "500+",
-          "startedAt": "2026-11-18T18:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "juan mata",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-18T17:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "real madrid vs inter",
-          "searchVolume": "1000+",
-          "startedAt": "2026-11-18T17:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "traffic enforcement camera",
-          "searchVolume": "1000+",
-          "startedAt": "2026-11-18T17:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "john mahama",
-          "searchVolume": "1000+",
-          "startedAt": "2026-11-18T17:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "cyber attacks",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-18T15:40:00Z",
+          "startedAt": "2026-11-18T18:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-11-19T01:29:55Z"
+  "generatedAt": "2026-11-19T09:30:03Z"
 }
