@@ -8,14 +8,56 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "mykhailo mudryk",
+          "title": "vladimir putin",
           "searchVolume": "200+",
+          "startedAt": "2026-11-19T17:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "gold",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-19T15:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "mayweather",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-19T14:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "mis",
+          "searchVolume": "500+",
+          "startedAt": "2026-11-19T14:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "gonçalo ramos",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-19T13:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "international men's day",
+          "searchVolume": "500+",
+          "startedAt": "2026-11-19T11:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "gta 6 cheat codes",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-19T11:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "mykhailo mudryk",
+          "searchVolume": "1000+",
           "startedAt": "2026-11-19T07:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "hanan abdul-wahab",
-          "searchVolume": "100+",
+          "searchVolume": "200+",
           "startedAt": "2026-11-19T05:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -23,48 +65,6 @@
           "title": "hat-trick",
           "searchVolume": "200+",
           "startedAt": "2026-11-19T04:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "karen real housewives of london",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-19T01:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "bills direct ghana",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-18T23:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "referee",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-18T20:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "gta vi game",
-          "searchVolume": "2000+",
-          "startedAt": "2026-11-18T19:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "ivory coast national football team",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-18T19:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "chelsea vs psg",
-          "searchVolume": "2000+",
-          "startedAt": "2026-11-18T19:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "head coach",
-          "searchVolume": "500+",
-          "startedAt": "2026-11-18T18:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-11-19T09:30:03Z"
+  "generatedAt": "2026-11-19T18:40:33Z"
 }
