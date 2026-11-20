@@ -8,63 +8,63 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
+          "title": "xiaomi 18 pro max",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-19T22:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "jude bellingham",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-19T21:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "uefa women's champions league",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-19T20:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "art theft",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-19T20:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "arsenal vs ol lyonnes",
+          "searchVolume": "500+",
+          "startedAt": "2026-11-19T19:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "enzo fernández",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-19T18:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "tax evasion",
+          "searchVolume": "500+",
+          "startedAt": "2026-11-19T17:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "vladimir putin",
           "searchVolume": "200+",
           "startedAt": "2026-11-19T17:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "gold",
+          "title": "rihanna",
           "searchVolume": "100+",
-          "startedAt": "2026-11-19T15:50:00Z",
+          "startedAt": "2026-11-19T17:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "mayweather",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-19T14:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "mis",
-          "searchVolume": "500+",
-          "startedAt": "2026-11-19T14:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "gonçalo ramos",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-19T13:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "international men's day",
-          "searchVolume": "500+",
-          "startedAt": "2026-11-19T11:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "gta 6 cheat codes",
+          "title": "james mcatee",
           "searchVolume": "100+",
-          "startedAt": "2026-11-19T11:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "mykhailo mudryk",
-          "searchVolume": "1000+",
-          "startedAt": "2026-11-19T07:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "hanan abdul-wahab",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-19T05:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "hat-trick",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-19T04:30:00Z",
+          "startedAt": "2026-11-19T17:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-11-19T18:40:33Z"
+  "generatedAt": "2026-11-20T00:55:11Z"
 }
