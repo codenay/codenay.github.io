@@ -8,9 +8,51 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "xiaomi 18 pro max",
+          "title": "azumah nelson",
+          "searchVolume": "500+",
+          "startedAt": "2026-11-20T06:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "grizzlies vs warriors",
           "searchVolume": "100+",
+          "startedAt": "2026-11-20T06:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "arsenal f.c.",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-20T05:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "chelsea f.c.",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-20T05:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "brandon thomas-asante",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-20T05:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "x",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-20T01:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "xiaomi 18 pro max",
+          "searchVolume": "500+",
           "startedAt": "2026-11-19T22:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "fc barcelona femení vs servette fc chênois féminin standings",
+          "searchVolume": "500+",
+          "startedAt": "2026-11-19T22:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
@@ -20,51 +62,9 @@
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "uefa women's champions league",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-19T20:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
           "title": "art theft",
           "searchVolume": "200+",
           "startedAt": "2026-11-19T20:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "arsenal vs ol lyonnes",
-          "searchVolume": "500+",
-          "startedAt": "2026-11-19T19:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "enzo fernández",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-19T18:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "tax evasion",
-          "searchVolume": "500+",
-          "startedAt": "2026-11-19T17:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "vladimir putin",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-19T17:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "rihanna",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-19T17:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "james mcatee",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-19T17:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-11-20T00:55:11Z"
+  "generatedAt": "2026-11-20T08:31:58Z"
 }
