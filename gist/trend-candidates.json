@@ -8,63 +8,63 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "athletic bilbao vs espanyol standings",
+          "title": "galatasaray vs samsunspor",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-21T12:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "teacher",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-21T12:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "liverpool vs chelsea",
           "searchVolume": "500+",
-          "startedAt": "2026-11-20T22:20:00Z",
+          "startedAt": "2026-11-21T12:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "ghana air force new helicopter delivery",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-20T22:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "bayern munich vs 1. fc köln standings",
-          "searchVolume": "2000+",
-          "startedAt": "2026-11-20T21:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "josé mourinho",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-20T21:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "porto vs paredes",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-20T21:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "troyes vs le havre",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-20T20:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "africa cup of nations",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-20T20:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "omar berrada",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-20T20:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "al-ahli saudi fc vs al-nassr standings",
+          "title": "man city vs fulham",
           "searchVolume": "10000+",
-          "startedAt": "2026-11-20T19:50:00Z",
+          "startedAt": "2026-11-21T11:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "saudi pro league",
+          "title": "ghana black challenge",
           "searchVolume": "200+",
-          "startedAt": "2026-11-20T19:30:00Z",
+          "startedAt": "2026-11-21T09:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "rema ft wizkid feel alright",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-21T09:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "victor osimhen",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-21T06:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "ghanaweb",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-21T06:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "lakers vs kings",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-21T06:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "athletic bilbao vs espanyol standings",
+          "searchVolume": "1000+",
+          "startedAt": "2026-11-20T22:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-11-21T04:17:22Z"
+  "generatedAt": "2026-11-21T13:01:36Z"
 }
