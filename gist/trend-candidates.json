@@ -9,8 +9,14 @@
       "items": [
         {
           "title": "athletic bilbao vs espanyol standings",
-          "searchVolume": "200+",
+          "searchVolume": "500+",
           "startedAt": "2026-11-20T22:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "ghana air force new helicopter delivery",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-20T22:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
@@ -38,14 +44,20 @@
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
+          "title": "africa cup of nations",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-20T20:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "omar berrada",
           "searchVolume": "100+",
           "startedAt": "2026-11-20T20:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "al nassr match today",
-          "searchVolume": "100+",
+          "title": "al-ahli saudi fc vs al-nassr standings",
+          "searchVolume": "10000+",
           "startedAt": "2026-11-20T19:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -53,18 +65,6 @@
           "title": "saudi pro league",
           "searchVolume": "200+",
           "startedAt": "2026-11-20T19:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "athletic vs espanyol",
-          "searchVolume": "2000+",
-          "startedAt": "2026-11-20T19:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "chief justice",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-20T19:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-11-20T23:21:04Z"
+  "generatedAt": "2026-11-21T04:17:22Z"
 }
