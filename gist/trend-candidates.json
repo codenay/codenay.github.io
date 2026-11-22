@@ -8,8 +8,20 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
+          "title": "josé mourinho",
+          "searchVolume": "500+",
+          "startedAt": "2026-11-22T05:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "bond girl",
+          "searchVolume": "500+",
+          "startedAt": "2026-11-22T00:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "inter miami vs columbus",
-          "searchVolume": "1000+",
+          "searchVolume": "2000+",
           "startedAt": "2026-11-21T22:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -20,15 +32,21 @@
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
+          "title": "real madrid match",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-21T21:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "monaco vs auxerre",
           "searchVolume": "100+",
           "startedAt": "2026-11-21T21:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "real madrid match",
+          "title": "real madrid fc",
           "searchVolume": "100+",
-          "startedAt": "2026-11-21T21:30:00Z",
+          "startedAt": "2026-11-21T21:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
@@ -38,33 +56,15 @@
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
+          "title": "la liga",
+          "searchVolume": "500+",
+          "startedAt": "2026-11-21T20:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "sevilla fc vs real betis standings",
           "searchVolume": "200+",
           "startedAt": "2026-11-21T20:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "napoli vs torino",
-          "searchVolume": "500+",
-          "startedAt": "2026-11-21T20:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "jesus de miguel",
-          "searchVolume": "500+",
-          "startedAt": "2026-11-21T20:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "real madrid vs celta",
-          "searchVolume": "20000+",
-          "startedAt": "2026-11-21T19:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "76ers vs bucks",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-21T19:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-11-22T00:19:24Z"
+  "generatedAt": "2026-11-22T07:28:08Z"
 }
