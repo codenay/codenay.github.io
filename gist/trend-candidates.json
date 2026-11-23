@@ -8,63 +8,63 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "asante kotoko",
+          "title": "torreense vs benfica",
           "searchVolume": "100+",
-          "startedAt": "2026-11-22T19:30:00Z",
+          "startedAt": "2026-11-22T22:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "getafe cf vs atlético madrid standings",
+          "searchVolume": "1000+",
+          "startedAt": "2026-11-22T22:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "ghana vs morocco",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-22T22:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "marseille fc",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-22T21:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "mlambo ngcuka",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-22T20:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "fc barcelona femení vs athletic club femenino standings",
+          "searchVolume": "500+",
+          "startedAt": "2026-11-22T20:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "getafe vs atlético",
-          "searchVolume": "2000+",
+          "searchVolume": "5000+",
           "startedAt": "2026-11-22T19:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "atalanta vs inter",
-          "searchVolume": "1000+",
+          "searchVolume": "2000+",
           "startedAt": "2026-11-22T19:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "premier league table",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-22T18:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "carlos alcaraz",
           "searchVolume": "100+",
           "startedAt": "2026-11-22T18:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "barcelona vs athletic club",
-          "searchVolume": "1000+",
-          "startedAt": "2026-11-22T17:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "milan vs frosinone",
-          "searchVolume": "1000+",
-          "startedAt": "2026-11-22T17:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "score 800",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-22T16:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "arsenal vs west ham",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-22T16:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "avengers doomsday",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-22T16:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "liverpool vs man utd",
-          "searchVolume": "20000+",
-          "startedAt": "2026-11-22T15:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-11-22T21:16:09Z"
+  "generatedAt": "2026-11-23T01:47:15Z"
 }
