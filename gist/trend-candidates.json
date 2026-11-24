@@ -8,63 +8,63 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "brentford f.c. vs everton f.c. standings",
-          "searchVolume": "5000+",
-          "startedAt": "2026-11-23T22:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "david raya",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-23T20:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "monza vs fiorentina",
-          "searchVolume": "500+",
-          "startedAt": "2026-11-23T19:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "levante vs elche",
-          "searchVolume": "1000+",
-          "startedAt": "2026-11-23T19:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "haruna iddrisu",
-          "searchVolume": "1000+",
-          "startedAt": "2026-11-23T18:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "jordan ayew",
-          "searchVolume": "1000+",
-          "startedAt": "2026-11-23T18:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "champions league",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-23T18:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "one ui",
+          "title": "al-nassr vs al sadd",
           "searchVolume": "200+",
-          "startedAt": "2026-11-23T16:40:00Z",
+          "startedAt": "2026-11-24T17:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "al-shamal vs al-ahli",
+          "title": "beach soccer",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-24T17:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "galatasaray vs aston villa",
+          "searchVolume": "2000+",
+          "startedAt": "2026-11-24T17:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "champions league games",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-24T17:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "liverpool f.c.",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-24T15:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "senegal national football team",
           "searchVolume": "1000+",
-          "startedAt": "2026-11-23T16:10:00Z",
+          "startedAt": "2026-11-24T14:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "bola ahmed tinubu",
-          "searchVolume": "500+",
-          "startedAt": "2026-11-23T15:50:00Z",
+          "title": "boxing",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-24T14:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "viktor gyökeres",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-24T14:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "uebert angel",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-24T13:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "south africa",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-24T12:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-11-24T06:05:25Z"
+  "generatedAt": "2026-11-24T17:41:22Z"
 }
