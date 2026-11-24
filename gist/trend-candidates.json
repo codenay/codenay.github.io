@@ -8,6 +8,12 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
+          "title": "brentford f.c. vs everton f.c. standings",
+          "searchVolume": "5000+",
+          "startedAt": "2026-11-23T22:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "david raya",
           "searchVolume": "100+",
           "startedAt": "2026-11-23T20:40:00Z",
@@ -20,15 +26,15 @@
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "brentford vs everton",
-          "searchVolume": "2000+",
+          "title": "levante vs elche",
+          "searchVolume": "1000+",
           "startedAt": "2026-11-23T19:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "levante vs elche",
-          "searchVolume": "500+",
-          "startedAt": "2026-11-23T19:30:00Z",
+          "title": "haruna iddrisu",
+          "searchVolume": "1000+",
+          "startedAt": "2026-11-23T18:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
@@ -51,7 +57,7 @@
         },
         {
           "title": "al-shamal vs al-ahli",
-          "searchVolume": "500+",
+          "searchVolume": "1000+",
           "startedAt": "2026-11-23T16:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -59,12 +65,6 @@
           "title": "bola ahmed tinubu",
           "searchVolume": "500+",
           "startedAt": "2026-11-23T15:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "diego simeone",
-          "searchVolume": "1000+",
-          "startedAt": "2026-11-23T15:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-11-23T22:14:47Z"
+  "generatedAt": "2026-11-24T06:05:25Z"
 }
