@@ -8,9 +8,33 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "ges recruitment portal 2026",
+          "title": "short statured world cup rabat 2026",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-25T10:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "best deals",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-25T09:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "ahmed jinapor gtec phd audit",
           "searchVolume": "200+",
-          "startedAt": "2026-11-25T00:40:00Z",
+          "startedAt": "2026-11-25T09:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "pete edochie",
+          "searchVolume": "10000+",
+          "startedAt": "2026-11-25T03:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "ges recruitment portal 2026 apply online",
+          "searchVolume": "1000+",
+          "startedAt": "2026-11-25T00:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
@@ -21,8 +45,14 @@
         },
         {
           "title": "gold mining",
-          "searchVolume": "100+",
+          "searchVolume": "200+",
           "startedAt": "2026-11-24T22:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "madrid vs",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-24T21:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
@@ -32,39 +62,9 @@
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "live matches today",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-24T21:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
           "title": "real madrid match",
           "searchVolume": "100+",
           "startedAt": "2026-11-24T21:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "livescore",
-          "searchVolume": "2000+",
-          "startedAt": "2026-11-24T21:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "como",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-24T21:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "psv",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-24T20:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "real madrid match today",
-          "searchVolume": "2000+",
-          "startedAt": "2026-11-24T20:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-11-25T01:36:17Z"
+  "generatedAt": "2026-11-25T10:29:37Z"
 }
