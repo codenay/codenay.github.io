@@ -8,14 +8,56 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
+          "title": "uefa champions league highlights",
+          "searchVolume": "1000+",
+          "startedAt": "2026-11-26T11:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "senne lammens",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-26T09:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "jada pinkett smith",
+          "searchVolume": "500+",
+          "startedAt": "2026-11-26T09:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "john mahama",
+          "searchVolume": "1000+",
+          "startedAt": "2026-11-26T08:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "warriors vs kings",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-26T06:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "when is thanksgiving 2026",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-26T00:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "76ers vs heat",
           "searchVolume": "200+",
           "startedAt": "2026-11-25T22:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
+          "title": "liverpool f.c",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-25T22:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "losc lille vs bayern munich standings",
-          "searchVolume": "500+",
+          "searchVolume": "1000+",
           "startedAt": "2026-11-25T22:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -23,48 +65,6 @@
           "title": "atlético madrid vs viking fk standings",
           "searchVolume": "500+",
           "startedAt": "2026-11-25T22:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "twitch",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-25T21:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "bayern",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-25T21:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "live score",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-25T21:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "shakhtar donetsk vs fenerbahçe",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-25T21:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "bayern munich",
-          "searchVolume": "500+",
-          "startedAt": "2026-11-25T21:30:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "ges teachers recruitment portal",
-          "searchVolume": "10000+",
-          "startedAt": "2026-11-25T21:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "slavia praha vs villarreal cf standings",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-25T20:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-11-26T02:50:31Z"
+  "generatedAt": "2026-11-26T12:29:14Z"
 }
