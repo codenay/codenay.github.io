@@ -8,6 +8,36 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
+          "title": "jamal musiala",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-27T11:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "basic education certificate examination",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-27T11:00:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "sts",
+          "searchVolume": "500+",
+          "startedAt": "2026-11-27T09:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "erling haaland",
+          "searchVolume": "500+",
+          "startedAt": "2026-11-27T08:10:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "work permit",
+          "searchVolume": "1000+",
+          "startedAt": "2026-11-27T06:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
           "title": "sunderland a.f.c. vs jagiellonia białystok standings",
           "searchVolume": "200+",
           "startedAt": "2026-11-26T23:10:00Z",
@@ -21,13 +51,13 @@
         },
         {
           "title": "wesley fofana",
-          "searchVolume": "200+",
+          "searchVolume": "500+",
           "startedAt": "2026-11-26T21:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
           "title": "luis enrique",
-          "searchVolume": "200+",
+          "searchVolume": "1000+",
           "startedAt": "2026-11-26T20:50:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
@@ -35,36 +65,6 @@
           "title": "borac vs atalanta",
           "searchVolume": "200+",
           "startedAt": "2026-11-26T20:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "larruso",
-          "searchVolume": "500+",
-          "startedAt": "2026-11-26T19:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "benfica",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-26T19:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "juventus vs omonoia",
-          "searchVolume": "1000+",
-          "startedAt": "2026-11-26T19:40:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "palace vs real sociedad",
-          "searchVolume": "1000+",
-          "startedAt": "2026-11-26T19:20:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "currency",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-26T19:10:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-11-27T04:14:07Z"
+  "generatedAt": "2026-11-27T13:53:18Z"
 }
