@@ -8,63 +8,63 @@
       "url": "https://trends.google.com/trending/rss?geo=GH",
       "items": [
         {
-          "title": "nba",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-28T03:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "bronson reed",
+          "title": "betis vs rayo",
           "searchVolume": "200+",
-          "startedAt": "2026-11-28T01:40:00Z",
+          "startedAt": "2026-11-28T12:40:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "columbus vs inter miami",
+          "title": "lincoln city vs wolves",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-28T12:30:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "al-hazem vs al-nassr",
+          "searchVolume": "2000+",
+          "startedAt": "2026-11-28T11:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "turtles",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-28T10:20:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "stonebwoy",
+          "searchVolume": "200+",
+          "startedAt": "2026-11-28T08:40:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "météo",
+          "searchVolume": "100+",
+          "startedAt": "2026-11-28T07:50:00Z",
+          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
+        },
+        {
+          "title": "asante kotoko s.c.",
           "searchVolume": "1000+",
-          "startedAt": "2026-11-28T00:40:00Z",
+          "startedAt": "2026-11-28T07:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "canada",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-27T23:50:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "levante ud vs racing santander standings",
+          "title": "spurs vs lakers",
           "searchVolume": "200+",
-          "startedAt": "2026-11-27T22:40:00Z",
+          "startedAt": "2026-11-28T05:20:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "carlos baleba",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-27T22:00:00Z",
+          "title": "discrimination",
+          "searchVolume": "500+",
+          "startedAt": "2026-11-28T04:30:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         },
         {
-          "title": "venezia vs bologna",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-27T21:10:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "southampton vs middlesbrough",
+          "title": "nba",
           "searchVolume": "200+",
-          "startedAt": "2026-11-27T21:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "gasoline",
-          "searchVolume": "100+",
-          "startedAt": "2026-11-27T21:00:00Z",
-          "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
-        },
-        {
-          "title": "postponement",
-          "searchVolume": "200+",
-          "startedAt": "2026-11-27T19:50:00Z",
+          "startedAt": "2026-11-28T03:00:00Z",
           "sourceURL": "https://trends.google.com/trending/rss?geo=GH"
         }
       ]
@@ -77,5 +77,5 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-11-28T04:15:00Z"
+  "generatedAt": "2026-11-28T13:03:03Z"
 }
